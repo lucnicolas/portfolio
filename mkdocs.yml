@@ -1,0 +1,23 @@
+site_name: Portfolio de Luc NICOLAS
+theme:
+  name: material
+  language: fr
+  palette:
+    primary: green
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - toc.integrate
+
+copyright: Copyright &copy; 2023 Luc NICOLAS
+
+extra:
+  generator: false
+
+plugins:
+  - search
+  - tags
+
+
