@@ -9,8 +9,9 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.sections
+    - navigation.top
     - toc.integrate
-
+    - toc.
 copyright: Copyright &copy; 2023 Luc NICOLAS
 
 extra:
@@ -19,5 +20,11 @@ extra:
 plugins:
   - search
   - tags
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 2
+
 
 
