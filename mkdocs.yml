@@ -11,7 +11,7 @@ theme:
     - navigation.sections
     - navigation.top
     - toc.integrate
-    - toc.
+
 copyright: Copyright &copy; 2023 Luc NICOLAS
 
 extra:
