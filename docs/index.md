@@ -25,6 +25,8 @@ Ma formation à INTECH m'a permis de développer mes compétences techniques, no
 - Tests et intégration,
 - Mise en œuvre opérationnelle in situ.
 
+→ Docker, NodeJS, JavaScript, Java, RAD/LAD, Git
+
 #### Trainee
 
 𝗠𝗶𝘀𝘀𝗶𝗼𝗻 : Réalisation d’un module d’installation automatisé des produits.
@@ -53,7 +55,7 @@ Prospection, analyse des besoins, négociation et rédaction d'offres, suivi des
 
 𝗠𝗶𝘀𝘀𝗶𝗼𝗻 : Refactorisation, développement et déploiement de nouvelles fonctionnalités majeurs pour une application web.
 
-→ Spring Boot, Server-Sent Events, Angular, Docker, Git
+→ Spring Boot, Server-Sent Events, Angular, Docker, CI/CD
 
 ### EMERA ANNECY
 
