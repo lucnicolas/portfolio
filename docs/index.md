@@ -4,15 +4,15 @@
 
 ## Qui suis-je ?
 
-Je m'appelle Luc NICOLAS, je suis étudiant en ingénierie du logiciel à INTECH et alternant ingénieur projet à ITESOFT.
+Je m'appelle Luc NICOLAS, je suis étudiant en ingénierie du logiciel à INTECH et alternant ingénieur projet à iTESOFT.
 
-Je suis passionné par les nouvelles technologies et l'innovation, et c'est pour cette raison que j'ai choisi de poursuivre une carrière dans l'ingénierie du logiciel. Mon expérience en tant qu'ingénieur projet chez ITESOFT m'a permis de développer des compétences en développement, gestion de projet et communication. J'ai également eu l'occasion de participer à des projets clients RAD/LAD en France et à l'international.
+Je suis passionné par les nouvelles technologies et l'innovation, et c'est pour cette raison que j'ai choisi de poursuivre une carrière dans l'ingénierie du logiciel. Mon expérience en tant qu'ingénieur projet chez iTESOFT m'a permis de développer des compétences en développement, gestion de projet et communication. J'ai également eu l'occasion de participer à des projets clients RAD/LAD en France et à l'international.
 
 Ma formation à INTECH m'a permis de développer mes compétences techniques, notamment en algorithmie, base de données, conception orientée objet, et virtualisation. J'ai également travaillé sur des "projets de formation humaine" pour développer des compétences transverses qui me seront utiles dans ma future vie professionnelle.
 
 ## Mon parcours professionnel
 
-### ITESOFT
+### iTESOFT
 
 ##### 2021 - aujourd'hui
 
