@@ -25,6 +25,6 @@ En tant que développeur de logiciel expérimenté, j'ai une connaissance approf
 
 Mon conseil pour les développeurs de logiciel est de toujours être à l'affût des dernières technologies et tendances. Cela implique de lire des blogs et des publications spécialisées, de participer à des conférences et à des événements, et de s'entraîner régulièrement. Il est également important de travailler en étroite collaboration avec les clients pour comprendre leurs besoins et de s'assurer que les solutions développées répondent à ces besoins de manière efficace et efficiente. Enfin, je recommande de toujours chercher à améliorer la qualité du code en utilisant des pratiques de développement telles que les tests unitaires et l'intégration continue.
 
-Pour aller plus loin:
+Pour aller plus loin :
 
-- [Clean Code - Uncle Bob / Lesson 1](https://www.youtube.com/watch?v=7EmboKQH8lM)
+- [Clean Code - Uncle Bob](https://youtu.be/7EmboKQH8lM)

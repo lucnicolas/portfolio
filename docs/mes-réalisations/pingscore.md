@@ -71,4 +71,4 @@ ITW https://www.youtube.com/watch?v=lkxKTyOwMAQ
 - [Prise de parole]()
 - [Communication]() 
 - [Conduite de formation]()
-- [Analyse du besoin]()
+- [Analyse du besoin](/mes-compétences/analyse-du-besoin)
