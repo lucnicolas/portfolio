@@ -6,7 +6,7 @@
 
 Contrairement à la virtualisation, qui émule un ordinateur complet, la containerisation ne fait fonctionner que la partie logicielle nécessaire et peut interagir directement avec le noyau de la machine, ce qui la rend plus légère que la virtualisation. Cela en fait un choix idéal pour isoler des applications uniques sur un système plus complet.
 
-Docker a été créé en 2013 par Solomon Hykes lors d'un hackathon interne chez dotCloud, une entreprise de PaaS. Hykes a créé Docker pour résoudre un problème de déploiement de code chez dotCloud, mais la technologie a rapidement attiré l'attention de la communauté open-source et a depuis connu un succès mondial.
+Docker a été créé en 2013 par Solomon Hykes lors d'un hackathon interne chez [dotCloud](https://www.docker.com/press-release/dotcloud-inc-now-docker-inc/), une entreprise de [PaaS](https://azure.microsoft.com/fr-ca/resources/cloud-computing-dictionary/what-is-paas). Hykes a créé Docker pour résoudre un problème de déploiement de code chez dotCloud, mais la technologie a rapidement attiré l'attention de la communauté open-source et a depuis connu un succès mondial.
 
 Avec Docker, il est possible de configurer un conteneur à partir d'une "image", une pré-configuration du système définissable dans des fichiers textuels. Docker permet également l'orchestration de ces conteneurs, notamment la gestion de partages de fichiers entre l'hôte et le conteneur, la connexion à des réseaux virtuels, la multiplication de conteneurs pour répondre à une charge de travail élevée.
 
@@ -31,7 +31,6 @@ En utilisant des conteneurs, chaque service peut être isolé dans son propre en
 ## Anecdotes
 
 1. Lorsque j'ai travaillé en tant que développeur pour une entreprise de logiciels de grande envergure, j'ai été chargé de migrer une application monolithique vers une architecture de microservices. Bien que ce soit une tâche complexe, j'ai réussi à simplifier le processus en utilisant Docker pour créer des conteneurs légers et portables pour chaque microservice. Non seulement cela a permis à l'application de fonctionner de manière plus efficace, mais cela a également permis une gestion plus facile des mises à jour et des déploiements de nouvelles fonctionnalités.
-
 2. Lorsque j'ai été confronté à un problème de compatibilité entre différentes versions de bibliothèques utilisées par mon application, j'ai eu recours à Docker pour résoudre ce problème. En créant des images Docker contenant des versions spécifiques de chaque bibliothèque, j'ai pu isoler chaque composant de l'application dans son propre conteneur. Cela m'a permis de tester rapidement différentes configurations de bibliothèques sans risquer de corrompre l'ensemble de l'application. En fin de compte, cette approche a permis de résoudre le problème de compatibilité de manière efficace et rapide.
 
 ## Mon niveau d’acquisition de la compétence
@@ -42,7 +41,7 @@ En ce qui me concerne, j'ai acquis une forte expertise en Docker grâce à mon t
 
 Si je devais donner un conseil à quelqu'un qui découvre la conteneurisation avec Docker, je lui conseillerais de bien comprendre la différence entre la conteneurisation et la virtualisation. Dans la virtualisation, le système d'exploitation est totalement indépendant de la machine hôte, tandis qu'avec la conteneurisation, le système d'exploitation est partagé entre l'hôte et le conteneur.
 
-![vm-vs-containers.png](../img/vm-vs-containers.png)
+![vm-vs-containers.png](/img/vm-vs-containers.png)
 
 Ensuite, je lui conseillerais de toujours créer un conteneur pour chaque "service" ou processus de son application. Cela permet de mieux gérer les dépendances entre les différents services et de les mettre à jour ou de les répliquer plus facilement.
 

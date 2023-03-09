@@ -6,8 +6,6 @@
 
 Les APIs (Application Programming Interface) sont un ensemble de règles, de protocoles et de définitions qui permettent à deux applications de communiquer entre elles. les APIs sont largement utilisées dans le développement de logiciels, en particulier dans les applications web et mobiles, pour permettre à différents systèmes de partager des données et des fonctionnalités.
 
-
-
 ## Dans l’actualité
 
 Les APIs sont devenues de plus en plus importantes dans l'actualité récente, car elles sont devenues une partie essentielle de la connectivité numérique. Les grandes entreprises de technologie telles que Google, Facebook et Amazon sont devenues des leaders dans l'utilisation et le développement d'API, avec des produits tels que Google Maps, Facebook Login et Amazon Web Services (AWS).

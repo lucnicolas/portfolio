@@ -2,7 +2,7 @@
 
 ## Présentation générale
 
-L'analyse du besoin client est une compétence clé pour tout professionnel travaillant dans le domaine de l'informatique ou du numérique. Cette compétence consiste à comprendre les besoins et les attentes des clients en matière de produits ou de services, afin de concevoir des solutions adaptées à leurs besoins.
+L'analyse du besoin client est une compétence clé pour tout professionnel travaillant dans le domaine de l'ingénierie logicielle. Cette compétence consiste à comprendre les besoins et les attentes des clients en matière de produits ou de services, afin de concevoir des solutions adaptées à leurs besoins.
 
 ## Dans l’actualité
 
