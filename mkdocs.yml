@@ -10,7 +10,6 @@ theme:
     - navigation.sections
     - navigation.tabs
     - navigation.top
-    - toc.integrate
 
 copyright: Copyright &copy; 2023 Luc NICOLAS 
   <a style="margin-left:50px" href="https://www.linkedin.com/in/luc-nicolas/" target=”_blank”><img src="./img/linkedin.png" alt="linkedin.png" width="25" height="25" align="center"/></a>
