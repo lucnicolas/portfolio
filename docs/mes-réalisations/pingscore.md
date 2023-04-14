@@ -45,35 +45,51 @@ Enfin, afin d'afficher les scores en direct sur l'écran géant lors de la comp�
 
 Pour cela, nous avons utilisé la technologie [Mercure](https://mercure.rocks/), permettant d'envoyer du contenu en temps réel depuis le serveur (et donc la base de données) vers des clients.
 
+<img src="/img/pingscore-scorer.png" alt="pingscore-match.png" width="100%" align="left" />
+
+
 ### Test grandeur nature
 Quelques jours avant le Championnat, nous avons eu accès au complexe sportif dans lequel se déroulerait la compétition. Nous avons alors pu tester l'écran géant pour l'affichage des scores, la couverture wifi pour les tablettes servant au marquage des scores et avons pu faire une première démo de la version finale de l'application à une partie des membres de l'association dont certains seraient présent au cours du week-end. Ces tests nous ont permis de corriger certains aspect du design de l'application afin permettre une meilleure lisibilité sur écran géant et sur les appareils mobiles sous la lumière artificielle de la grande salle.
 
+Nous avons également été interviewé par le média numérique [Sport Mag](https://www.sportmag.fr/) qui a fait un reportage sur la compétition. Vous pouvez retrouver un extrait de l'intervention de Hugo MARTI [ici](https://www.youtube.com/watch?v=lkxKTyOwMAQ).
+
 ### Le championnat
+
+<img src="/img/pingscore-tab.png" alt="pingscore-tab.png" width="50%" align="right" />
+
 Au cours du week-end de championnat, nous avons eu les rôles de formateur, coordinateur et support technique pour les scoreurs bénévoles. Il nous fallait avant chaque phase de matchs et ce dès 8h du matin saisir les rencontres dans l'application puis tenir à jour toutes les informations remontées par les utilisateurs et les scoreurs tout en corrigeant en live (en production) les quelques bugs qui pouvaient survenir. Ce fût l'occasion de mettre à l'épreuve toutes les compétences techniques que nous avions acquit au cours des trois mois de développement.
 
+<img src="/img/pingscore-equipe.png" alt="pingscore-match.png" width="50%" align="left" />
+
+<br><br><br><br>
+_L'équipe qui a "scoré" les matchs du Championnat de France 2019_
+<br><br><br><br><br>
+
 ### Poursuite du projet
+
 Le retour d'expérience du Championnat nous a permis de corriger l'application et d'apporter de nouveaux automatismes, notamment dans l'import de joueurs ou la création de matchs.
 
 Notre motivation sur le projet, le bon déroulé de la compétition ainsi que la démonstration que nous avons pu faire aux responsables de la Fédération Française du Handisport (FFH) ont convaincu les commanditaires du projet, l'ASPCN, de continuer le projet avec nous une fois la phase d'évaluation de l'école terminée.
 
 ## Les résultats présents et futurs
+
+<img src="/img/pingscore-fred.png" alt="pingscore-match.png" width="30%" align="right" />
+
 Après deux phases de développement additionnelles commandées par le club, et diverse utilisation au cours de rencontres amicales ou compétitives, la version 1.4 de l'application n'avait plus rien à envier à celle utilisée pendant le Championnat de France.
 
 Malheureusement, la crise de la COVID-19 et les confinements successifs ont modifié les priorités du club et l'aventure s'est arrêtée.
 
 Ce projet à toutefois été source de nombreux apprentissages humains et techniques ou encore de bonnes pratiques qui nous servent encore aujourd'hui.
 
-Replay https://www.youtube.com/watch?v=UfGHNEK-Rmk
-ITW https://www.youtube.com/watch?v=lkxKTyOwMAQ
 
 ## Compétences liées
-- [Analyse du besoin](/mes-compétences/analyse-du-besoin)
-- [Déploiement automatisé](/mes-compétences/deploiement-automatise)
+- [Analyse du besoin](/mes-compétences/Humaines/analyse-du-besoin)
+- [Déploiement automatisé](/mes-compétences/Techniques/deploiement-automatise)
+- [Planification](/mes-compétences/Techniques/planification)
+- [Développement de logiciel](/mes-compétences/Techniques/developpement-logiciel)
+- [Gestion de projet AGILE](/mes-compétences/Techniques/gestion-de-projet-agile)
+- [Communication](/mes-compétences/Humaines/communication)
+- [Conduite de formation](/mes-compétences/Humaines/conduite-de-formation)
 
-
-
-- [Linux]()
-- [Prise de parole]()
-- [Communication]() 
-- [Conduite de formation]()
+<img src="/img/pingscore-match-termine.png" alt="pingscore-match.png" width="100%" align="left" />
 
