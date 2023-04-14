@@ -6,6 +6,9 @@ Le projet WORKBOARD a été initié dans le cadre d'un projet étudiant avec mes
 La branche française de la multinationale Würth avait du mal à synchroniser les informations collectées par les commerciaux. Afin de centraliser efficacement toutes ces informations, nous avons proposé une application mobile pour simplifier la collecte des données.
 
 ## Les objectifs
+- Prendre des photos géolocalisées de panneaux de chantiers.
+- Créer et éditer des fiches entreprises depuis un panneau et les enregistrer dans une base de données locale.
+- Synchroniser la base de données locale avec une base de données en ligne.
 
 ## Les étapes de réalisation
 Nous avons commencé par établir un cahier des charges en fonction des besoins de Würth France. Nous avons dû faire plusieurs révisions du projet pour répondre à certaines demandes qui s'avéraient difficiles à mettre en place ou simplement impossibles dans le temps imparti.
