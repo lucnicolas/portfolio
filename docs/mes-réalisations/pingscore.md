@@ -44,7 +44,7 @@ Pour cela, nous avons utilisé la technologie [Mercure](https://mercure.rocks/),
 
 L'idée était d'avoir une interface pour tablette très simple d'utilisation pour les 'scoreurs' bénévoles qui devaient saisir les scores des matchs.
 
-<img src="/img/pingscore-scorer.png" alt="pingscore-match.png" width="100%" align="left" />
+<img src="../../img/pingscore-scorer.png" alt="pingscore-match.png" width="100%" align="left" />
 
 
 ### Test grandeur nature
@@ -54,11 +54,11 @@ Nous avons également été interviewé par le média numérique [Sport Mag](htt
 
 ### Le championnat
 
-<img src="/img/pingscore-tab.png" alt="pingscore-tab.png" width="50%" align="right" />
+<img src="../../img/pingscore-tab.png" alt="pingscore-tab.png" width="50%" align="right" />
 
 Au cours du week-end de championnat, nous avons eu les rôles de formateur, coordinateur et support technique pour les 'scoreurs' bénévoles. Il nous fallait avant chaque phase de matchs, et ce, dès 8h du matin saisir les rencontres dans l'application puis tenir à jour toutes les informations remontées par les utilisateurs et les 'scoreurs' tout en corrigeant en live (en production) les quelques bugs qui pouvaient survenir. Ce fût l'occasion de mettre à l'épreuve toutes les compétences techniques que nous avions acquit au cours des trois mois de développement.
 
-<img src="/img/pingscore-equipe.png" alt="pingscore-match.png" width="50%" align="left" />
+<img src="../../img/pingscore-equipe.png" alt="pingscore-match.png" width="50%" align="left" />
 
 <br><br><br><br>
 _L'équipe qui a 'scoré' les matchs du Championnat de France 2019_
@@ -72,7 +72,7 @@ Notre motivation sur le projet, le bon déroulé de la compétition ainsi que la
 
 ## Les résultats présents et futurs
 
-<img src="/img/pingscore-fred.png" alt="pingscore-match.png" width="30%" align="right" />
+<img src="../../img/pingscore-fred.png" alt="pingscore-match.png" width="30%" align="right" />
 
 Après deux phases de développement additionnelles commandées par le club, et diverse utilisation au cours de rencontres amicales ou compétitives, la version 1.4 de l'application n'avait plus rien à envier à celle utilisée pendant le Championnat de France.
 
@@ -91,5 +91,5 @@ Ce projet à toutefois été source de nombreux apprentissages humains et techni
 - [Conduite de formation](/mes-compétences/Humaines/conduite-de-formation)
 
 <br>
-<img src="/img/pingscore-match-termine.png" alt="pingscore-match.png" width="100%" align="left" />
+<img src="../../img/pingscore-match-termine.png" alt="pingscore-match.png" width="100%" align="left" />
 

@@ -20,7 +20,7 @@ Mon rôle dans ce projet était celui de Scrum master et développeur d'API, Ada
 ## Les résultats présents et futurs
 Pour notre équipe, ce projet a été une véritable opportunité d'apprendre une nouvelle technologie et de développer de nouvelles compétences. Pour Würth France, c'était une bonne occasion de lancer l'idée d'une application interne qui faciliterait la collecte d'informations pour les commerciaux.
 
-<img src="/img/workboard.png" alt="workboard.png" width="200" height="300" align="left" />
+<img src="../../img/workboard.png" alt="workboard.png" width="200" height="300" align="left" />
 
 Bien que le projet n'ait pas été mis en production pour de vrais utilisateurs, nous sommes fiers du travail accompli. Nous aurions cependant pu améliorer certains aspects de l'application, notamment en utilisant Kotlin au lieu de Java, en stockant des miniatures d'images pour accélérer le chargement, en utilisant un moyen d'authentification tel que Google Authenticator, ou encore en appelant régulièrement le Garbage Collector pour améliorer les performances et éviter les fuites de mémoire.
 

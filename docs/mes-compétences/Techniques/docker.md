@@ -41,7 +41,7 @@ En ce qui me concerne, j'ai acquis une forte expertise en Docker grâce à mon t
 
 Si je devais donner un conseil à quelqu'un qui découvre la conteneurisation avec Docker, je lui conseillerais de bien comprendre la différence entre la conteneurisation et la virtualisation. Dans la virtualisation, le système d'exploitation est totalement indépendant de la machine hôte, tandis qu'avec la conteneurisation, le système d'exploitation est partagé entre l'hôte et le conteneur.
 
-![vm-vs-containers.png](/img/vm-vs-containers.png)
+![vm-vs-containers.png](/portfolio/img/vm-vs-containers.png)
 
 Ensuite, je lui conseillerais de toujours créer un conteneur pour chaque "service" ou processus de son application. Cela permet de mieux gérer les dépendances entre les différents services et de les mettre à jour ou de les répliquer plus facilement.
 

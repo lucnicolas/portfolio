@@ -2,7 +2,7 @@
 
 ## Présentation générale
 
-<img src="/img/api.png" width="50" height="50" style="float: left; margin-right: 5px">
+<img src="../../img/api.png" width="50" height="50" style="float: left; margin-right: 5px">
 
 Les APIs (Application Programming Interface) sont un ensemble de règles, de protocoles et de définitions qui permettent à deux applications de communiquer entre elles. les APIs sont largement utilisées dans le développement de logiciels, en particulier dans les applications web et mobiles, pour permettre à différents systèmes de partager des données et des fonctionnalités.
 
