@@ -67,8 +67,13 @@ Replay https://www.youtube.com/watch?v=UfGHNEK-Rmk
 ITW https://www.youtube.com/watch?v=lkxKTyOwMAQ
 
 ## Compétences liées
+- [Analyse du besoin](/mes-compétences/analyse-du-besoin)
+- [Déploiement automatisé](/mes-compétences/deploiement-automatise)
+
+
+
 - [Linux]()
 - [Prise de parole]()
 - [Communication]() 
 - [Conduite de formation]()
-- [Analyse du besoin](/mes-compétences/analyse-du-besoin)
+

@@ -18,12 +18,9 @@ Les tendances actuelles montrent une adoption croissante de genre de processus, 
 
 ## Anecdotes
 
-1.
-2.
-3. Lors d'un projet de développement logiciel, j'ai mis en place une infrastructure de déploiement automatisé pour accélérer le processus de mise en production. En utilisant des outils d'automatisation de déploiement tels que Ansible et Jenkins, nous avons pu déployer l'application sur plusieurs environnements en quelques minutes seulement, ce qui nous a permis de gagner du temps et de minimiser les risques d'erreurs.
-4. Dans une autre situation, j'ai mis en place un pipeline de déploiement automatisé pour une application web à forte demande. Nous avons utilisé des outils tels que Kubernetes et Terraform pour créer un environnement de déploiement automatique qui pouvait gérer automatiquement la charge de l'application en temps réel.
-5. Lors de mon stage en entreprise, j'ai travaillé sur un projet de développement d'une application web destinée à être utilisée par des professionnels de santé. Le processus de déploiement de l'application sur le serveur était fastidieux et prenait beaucoup de temps, ce qui rendait difficile l'intégration de nouvelles fonctionnalités dans l'application. J'ai donc mis en place un système de déploiement automatisé qui a permis de réduire considérablement le temps de déploiement et d'assurer une intégration continue plus fluide. Cela a été très apprécié par l'équipe de développement et les responsables du projet.
-6. Lors d'un hackathon, j'ai participé à la création d'une application mobile de gestion de budget en équipe. Pour rendre notre processus de développement plus efficace, j'ai proposé de mettre en place un système de déploiement automatisé qui permettrait de déployer rapidement les nouvelles fonctionnalités que nous ajoutions à l'application. Grâce à cela, nous avons pu gagner beaucoup de temps et nous concentrer sur le développement de nouvelles fonctionnalités plutôt que sur le déploiement.
+1. Lors de mon stage à iTESOFT, j'ai constaté que la solution sur laquelle je travaillais avait un processus de déploiement manuel complexe et chronophage. J'ai donc proposé de mettre en place un système de déploiement automatisé qui permettrait de déployer rapidement les différents produits de la solution sur les environnements de développement. Ce projet nommé [Toolkit-Delivery](/mes-réalisations/toolkit-delivery) est encore en cours aujourd'hui mais il permet déjà aux équipes de gagner beaucoup de temps et de se concentrer sur le développement de nouvelles fonctionnalités plutôt que sur le déploiement.
+
+2. Lors du développement du projet [PingScore](/mes-réalisations/pingscore), j'ai mis en place une infrastructure de déploiement automatisé pour accélérer le processus de mise en production. En utilisant des outils d'automatisation de déploiement tels que Ansible et Jenkins, j'ai mettre en place un processus permettant de déployer l'application sur plusieurs environnements en quelques minutes seulement, ce qui nous a permis de gagner du temps et de minimiser les risques d'erreurs.
 
 ## Mon niveau d’acquisition de la compétence
 

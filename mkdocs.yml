@@ -8,6 +8,7 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.sections
+    - navigation.tabs
     - navigation.top
     - toc.integrate
 
@@ -15,6 +16,10 @@ copyright: Copyright &copy; 2023 Luc NICOLAS
 
 extra:
   generator: false
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:l.nicolas@groupe-aen.info
+      name: Contactez-moi
 
 plugins:
   - search
@@ -24,6 +29,8 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 2
+  - tables
+  - attr_list
 
 
 
