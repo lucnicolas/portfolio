@@ -1,4 +1,4 @@
-# Gestion de projet agile
+# Gestion de projet AGILE
 
 ## Présentation générale
 

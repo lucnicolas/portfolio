@@ -1,4 +1,4 @@
-# Developpement de logiciel
+# Développement de logiciel
 
 ## Présentation générale
 
