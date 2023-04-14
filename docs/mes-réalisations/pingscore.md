@@ -2,7 +2,7 @@
 
 ## Le contexte
 
-PingScore est un projet informatique réalisé par Hugo MARTI et moi-même dans le cadre de leur formation en ingénierie du logiciel à INTECH. 
+PingScore est un projet informatique réalisé par Hugo MARTI et moi-même dans le cadre de notre formation en ingénierie du logiciel à INTECH. 
 
 Le projet a été réalisé en partenariat avec l'[Association Perrier Cheminot Nîmois (ASPCN)](http://aspcn.fr/), le principal club de tennis de table amateur et professionnel de la ville de Nîmes. 
 
@@ -28,22 +28,21 @@ Dans le même temps, nous avons pu rencontrer les athlètes de la section handis
 ### Développement en trois parties
 Une fois bien à l'aise avec les règles de ce sport, nous étions prêts à développer. Nous avons divisé le travail en trois parties : le visuel (front-end), la logique (back-end) et le direct (actualisation en temps réel des scores).
 
-#### Le visuel
 Nous avons travaillé le visuel de l'application pour ressembler au maximum à ce qui pouvait exister sur d'autres sites web de consultation de scores et de paris en ligne. Un affichage des 16 tables de jeu de la compétitions sous forme de tableaux qui, lorsque l'on clique dessus, renvoie vers une page dédiée à la table avec plus de détails comme les photos des joueurs en train de jouer et le flux vidéo en direct si disponible.
 
 Il y avait également toute une partie pour l'administration de la compétition (création, saisie des joueurs, etc) et pour la gestion des matchs (sous forme de télécommande).
 
 Le visuel a été fait avec les technologies [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS) et [JavaScript](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/What_is_JavaScript).
 
-#### La logique
-Afin de faire fonctionner de l'application, nous avons du développer de zéro toute la logique en nous basant sur nos nouvelles connaissances du tennis de table. Il fallait faire le lien avec la base de données que nous concevions au fil du développement.
+Afin de faire fonctionner de l'application, nous avons dû développer de zéro toute la logique en nous basant sur nos nouvelles connaissances du tennis de table. Il fallait faire le lien avec la base de données que nous concevions au fil du développement.
 
 La logique a été construire grâce à la technologie [PHP](https://www.php.net/).
 
-#### Le direct
 Enfin, afin d'afficher les scores en direct sur l'écran géant lors de la compétition, mais aussi sur les téléphones, tablettes et smartphone des personnes suivant les matchs à distance nous devions mettre en place un système d'actualisation.
 
 Pour cela, nous avons utilisé la technologie [Mercure](https://mercure.rocks/), permettant d'envoyer du contenu en temps réel depuis le serveur (et donc la base de données) vers des clients.
+
+L'idée était d'avoir une interface pour tablette très simple d'utilisation pour les 'scoreurs' bénévoles qui devaient saisir les scores des matchs.
 
 <img src="/img/pingscore-scorer.png" alt="pingscore-match.png" width="100%" align="left" />
 
@@ -57,12 +56,12 @@ Nous avons également été interviewé par le média numérique [Sport Mag](htt
 
 <img src="/img/pingscore-tab.png" alt="pingscore-tab.png" width="50%" align="right" />
 
-Au cours du week-end de championnat, nous avons eu les rôles de formateur, coordinateur et support technique pour les scoreurs bénévoles. Il nous fallait avant chaque phase de matchs et ce dès 8h du matin saisir les rencontres dans l'application puis tenir à jour toutes les informations remontées par les utilisateurs et les scoreurs tout en corrigeant en live (en production) les quelques bugs qui pouvaient survenir. Ce fût l'occasion de mettre à l'épreuve toutes les compétences techniques que nous avions acquit au cours des trois mois de développement.
+Au cours du week-end de championnat, nous avons eu les rôles de formateur, coordinateur et support technique pour les 'scoreurs' bénévoles. Il nous fallait avant chaque phase de matchs, et ce, dès 8h du matin saisir les rencontres dans l'application puis tenir à jour toutes les informations remontées par les utilisateurs et les 'scoreurs' tout en corrigeant en live (en production) les quelques bugs qui pouvaient survenir. Ce fût l'occasion de mettre à l'épreuve toutes les compétences techniques que nous avions acquit au cours des trois mois de développement.
 
 <img src="/img/pingscore-equipe.png" alt="pingscore-match.png" width="50%" align="left" />
 
 <br><br><br><br>
-_L'équipe qui a "scoré" les matchs du Championnat de France 2019_
+_L'équipe qui a 'scoré' les matchs du Championnat de France 2019_
 <br><br><br><br><br>
 
 ### Poursuite du projet
@@ -91,5 +90,6 @@ Ce projet à toutefois été source de nombreux apprentissages humains et techni
 - [Communication](/mes-compétences/Humaines/communication)
 - [Conduite de formation](/mes-compétences/Humaines/conduite-de-formation)
 
+<br>
 <img src="/img/pingscore-match-termine.png" alt="pingscore-match.png" width="100%" align="left" />
 
