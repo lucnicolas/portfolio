@@ -2,16 +2,16 @@
 
 ## Présentation générale
 
-<img src="../../img/api.png" width="50" height="50" style="float: left; margin-right: 5px">
+<img src="../../../img/api.png" width="50" height="50" style="float: left; margin-right: 5px">
 
 Les APIs (Application Programming Interface) sont un ensemble de règles, de protocoles et de définitions qui permettent à deux applications de communiquer entre elles. les APIs sont largement utilisées dans le développement de logiciels, en particulier dans les applications web et mobiles, pour permettre à différents systèmes de partager des données et des fonctionnalités.
 
 Les API sont généralement conçues pour être consommées par programme par d'autres applications, c'est pourquoi elles sont appelées interfaces de programmation d'applications.
 
-Voici quelques-uns des nombreux cas d'utilisation des API :
+Voici quelques-uns des nombreux cas d'utilisation des API :
 
-- Tâches d'automatisation : Créez un script qui exécute vos tâches manuelles automatiquement et par programmation. Exemple : Vous êtes un gestionnaire et le dernier jour de chaque période de paie, vous devez vous connecter manuellement au portail et télécharger la feuille de temps de chaque personne qui relève de vous. Ensuite, vous devez additionner manuellement le nombre d'heures travaillées par chaque personne afin de voir combien les payer. Si vous créez un script automatisé qui appelle l'API du portail pour obtenir les données de chaque feuille de temps et calculer le total à partir de ces données, votre script peut imprimer une liste du nombre total d'heures travaillées par personne dans un format convivial. Pensez au temps que cela vous ferait gagner !
-- Intégration de données : Une application peut consommer ou réagir aux données fournies par une autre application. Exemple : de nombreux sites Web de commerce électronique utilisent des services de paiement accessibles via une API REST. L'interface de paiement permet à un site marchand de transmettre des données de valeur relativement faible, telles qu'une description de l'objet acheté et le prix. L'utilisateur s'authentifie alors indépendamment auprès du service de paiement pour confirmer le paiement. Cela permet au vendeur de recevoir le paiement sans avoir besoin d'un accès direct aux données de carte de crédit du client. Le fournisseur récupère un code de confirmation à utiliser par la comptabilité.
+- Tâches d'automatisation : Créez un script qui exécute vos tâches manuelles automatiquement et par programmation. Exemple : Vous êtes un gestionnaire et le dernier jour de chaque période de paie, vous devez vous connecter manuellement au portail et télécharger la feuille de temps de chaque personne qui relève de vous. Ensuite, vous devez additionner manuellement le nombre d'heures travaillées par chaque personne afin de voir combien les payer. Si vous créez un script automatisé qui appelle l'API du portail pour obtenir les données de chaque feuille de temps et calculer le total à partir de ces données, votre script peut imprimer une liste du nombre total d'heures travaillées par personne dans un format convivial. Pensez au temps que cela vous ferait gagner !
+- Intégration de données : Une application peut consommer ou réagir aux données fournies par une autre application. Exemple : de nombreux sites Web de commerce électronique utilisent des services de paiement accessibles via une API REST. L'interface de paiement permet à un site marchand de transmettre des données de valeur relativement faible, telles qu'une description de l'objet acheté et le prix. L'utilisateur s'authentifie alors indépendamment auprès du service de paiement pour confirmer le paiement. Cela permet au vendeur de recevoir le paiement sans avoir besoin d'un accès direct aux données de carte de crédit du client. Le fournisseur récupère un code de confirmation à utiliser par la comptabilité.
 - Fonctionnalité : Une application peut intégrer la fonctionnalité d'une autre application dans son produit. Exemple : de nombreux services en ligne, tels que Yelp et Uber, échangent des données avec Google Maps pour créer et optimiser des itinéraires de voyage. Ils intègrent également des fonctionnalités de Google Maps dans leurs propres applications et sites Web pour présenter des cartes d'itinéraire en temps réel.
 
 ## Dans l’actualité
@@ -28,8 +28,8 @@ La popularité de langages de codage plus simples tels que Python a permis à pl
 
 ## Anecdotes
 
-1. Pour le projet interne iTESOFT [Toolkit-Delivery](/mes-réalisations/toolkit-delivery), j'ai dû développer une API pour connecter l'application à différent services comme l'API Azure et l'API vSphère pour permettre d'automatisé l'ensemble de la chaine de déploiement. Cela a permit de rendre le déployement de nouvelles plateforme plus rapide et plus efficace. Aujourd'hui cet outil permet de monter une solution complète standard en une demi-journée contre deux jours auparavant.
-2. J'ai également travaillé sur un [projet de développement d'application web pour la CRESS Nouvelle-Aquitaine](/mes-réalisations/essentiel). Dans le cadre de ce projet, j'ai créé une API pour permettre aux utilisateurs de voir l'ensemble des sturctures ESS dans leur région. Cette API a permit de charger des sturctures depuis d'autres plateformes pour rendre le site utilisable dès les premiers jours.
+1. Pour le projet interne iTESOFT [Toolkit-Delivery](../../../mes-réalisations/toolkit-delivery), j'ai dû développer une API pour connecter l'application à différent services comme l'API Azure et l'API vSphère pour permettre d'automatisé l'ensemble de la chaine de déploiement. Cela a permit de rendre le déployement de nouvelles plateforme plus rapide et plus efficace. Aujourd'hui cet outil permet de monter une solution complète standard en une demi-journée contre deux jours auparavant.
+2. J'ai également travaillé sur un [projet de développement d'application web pour la CRESS Nouvelle-Aquitaine](../../../mes-réalisations/essentiel). Dans le cadre de ce projet, j'ai créé une API pour permettre aux utilisateurs de voir l'ensemble des sturctures ESS dans leur région. Cette API a permit de charger des sturctures depuis d'autres plateformes pour rendre le site utilisable dès les premiers jours.
 
 ## Mon niveau d’acquisition de la compétence
 
