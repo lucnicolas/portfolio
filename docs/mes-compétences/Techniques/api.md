@@ -28,8 +28,8 @@ La popularité de langages de codage plus simples tels que Python a permis à pl
 
 ## Anecdotes
 
-1. Pour le projet interne iTESOFT [Toolkit-Delivery](../../../mes-réalisations/toolkit-delivery), j'ai dû développer une API pour connecter l'application à différent services comme l'API Azure et l'API vSphère pour permettre d'automatisé l'ensemble de la chaine de déploiement. Cela a permit de rendre le déployement de nouvelles plateforme plus rapide et plus efficace. Aujourd'hui cet outil permet de monter une solution complète standard en une demi-journée contre deux jours auparavant.
-2. J'ai également travaillé sur un [projet de développement d'application web pour la CRESS Nouvelle-Aquitaine](../../../mes-réalisations/essentiel). Dans le cadre de ce projet, j'ai créé une API pour permettre aux utilisateurs de voir l'ensemble des sturctures ESS dans leur région. Cette API a permit de charger des sturctures depuis d'autres plateformes pour rendre le site utilisable dès les premiers jours.
+1. Pour le projet interne iTESOFT [Toolkit-Delivery](../../../mes-réalisations/toolkit-delivery), j'ai dû développer une API pour connecter l'application à différents services comme l'API Azure et l'API vSphère pour permettre d'automatiser l'ensemble de la chaine de déploiement. Cela a permis de rendre le déploiement de nouvelles plateformes plus rapide et plus efficace. Aujourd'hui cet outil permet de monter une solution complète standard en une demi-journée contre deux jours auparavant.
+2. J'ai également travaillé sur un [projet de développement d'application web pour la CRESS Nouvelle-Aquitaine](../../../mes-réalisations/essentiel). Dans le cadre de ce projet, j'ai créé une API pour permettre aux utilisateurs de voir l'ensemble des structures ESS dans leur région. Cette API a permis de charger des structures depuis d'autres plateformes pour rendre le site utilisable dès les premiers jours.
 
 ## Mon niveau d’acquisition de la compétence
 
@@ -41,4 +41,4 @@ Mon conseil pour les professionnels qui cherchent à maîtriser les APIs est de 
 
 Pour aller plus loin :
 
-- ["RESTful API Design - Tips and Tricks"](https://betterprogramming.pub/restful-api-design-tips-and-tricks-31a0f71e6d8f) de BetterProgramming : Cet article propose des conseils pour la conception d'API RESTful efficaces. Il aborde notamment les bonnes pratiques de conception et de documentation, ainsi que les stratégies pour gérer les erreurs et les versions de l'API.
+- ["RESTful API Design - Tips and Tricks"](https://betterprogramming.pub/restful-api-design-tips-and-tricks-31a0f71e6d8f){:target="_blank"} de BetterProgramming : Cet article propose des conseils pour la conception d'API RESTful efficaces. Il aborde notamment les bonnes pratiques de conception et de documentation, ainsi que les stratégies pour gérer les erreurs et les versions de l'API.

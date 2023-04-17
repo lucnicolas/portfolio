@@ -4,9 +4,9 @@
 
 PingScore est un projet informatique réalisé par Hugo MARTI et moi-même dans le cadre de notre formation en ingénierie du logiciel à INTECH. 
 
-Le projet a été réalisé en partenariat avec l'[Association Perrier Cheminot Nîmois (ASPCN)](http://aspcn.fr/), le principal club de tennis de table amateur et professionnel de la ville de Nîmes. 
+Le projet a été réalisé en partenariat avec l'[Association Perrier Cheminot Nîmois (ASPCN)](http://aspcn.fr/){:target="_blank"}, le principal club de tennis de table amateur et professionnel de la ville de Nîmes. 
 
-Notre mission était de développer une application de live-scoring pour permettre aux spectateurs de suivre en direct et à distance le [Championnat de France de Tennis de Table Handisport qui a eu lieu en juin 2019](http://tthandisport.org/2019/06/10/championnat-de-france-elite/).
+Notre mission était de développer une application de live-scoring pour permettre aux spectateurs de suivre en direct et à distance le [Championnat de France de Tennis de Table Handisport qui a eu lieu en juin 2019](http://tthandisport.org/2019/06/10/championnat-de-france-elite/){:target="_blank"}.
 
 ## Les objectifs
 Pour mener à bien ce projet, plusieurs besoins ont été définis :
@@ -28,19 +28,19 @@ Dans le même temps, nous avons pu rencontrer les athlètes de la section handis
 ### Développement en trois parties
 Une fois bien à l'aise avec les règles de ce sport, nous étions prêts à développer. Nous avons divisé le travail en trois parties : le visuel (front-end), la logique (back-end) et le direct (actualisation en temps réel des scores).
 
-Nous avons travaillé le visuel de l'application pour ressembler au maximum à ce qui pouvait exister sur d'autres sites web de consultation de scores et de paris en ligne. Un affichage des 16 tables de jeu de la compétitions sous forme de tableaux qui, lorsque l'on clique dessus, renvoie vers une page dédiée à la table avec plus de détails comme les photos des joueurs en train de jouer et le flux vidéo en direct si disponible.
+Nous avons travaillé le visuel de l'application pour ressembler au maximum à ce qui pouvait exister sur d'autres sites web de consultation de scores et de paris en ligne. Un affichage des 16 tables de jeu de la compétition sous forme de tableaux qui, lorsque l'on clique dessus, renvoie vers une page dédiée à la table avec plus de détails comme les photos des joueurs en train de jouer et le flux vidéo en direct si disponible.
 
 Il y avait également toute une partie pour l'administration de la compétition (création, saisie des joueurs, etc) et pour la gestion des matchs (sous forme de télécommande).
 
-Le visuel a été fait avec les technologies [HTML](https://developer.mozilla.org/fr/docs/Web/HTML), [CSS](https://developer.mozilla.org/fr/docs/Web/CSS) et [JavaScript](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/What_is_JavaScript).
+Le visuel a été fait avec les technologies [HTML](https://developer.mozilla.org/fr/docs/Web/HTML){:target="_blank"}, [CSS](https://developer.mozilla.org/fr/docs/Web/CSS){:target="_blank"} et [JavaScript](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/What_is_JavaScript){:target="_blank"}.
 
 Afin de faire fonctionner de l'application, nous avons dû développer de zéro toute la logique en nous basant sur nos nouvelles connaissances du tennis de table. Il fallait faire le lien avec la base de données que nous concevions au fil du développement.
 
-La logique a été construire grâce à la technologie [PHP](https://www.php.net/).
+La logique a été construire grâce à la technologie [PHP](https://www.php.net/){:target="_blank"}.
 
 Enfin, afin d'afficher les scores en direct sur l'écran géant lors de la compétition, mais aussi sur les téléphones, tablettes et smartphone des personnes suivant les matchs à distance nous devions mettre en place un système d'actualisation.
 
-Pour cela, nous avons utilisé la technologie [Mercure](https://mercure.rocks/), permettant d'envoyer du contenu en temps réel depuis le serveur (et donc la base de données) vers des clients.
+Pour cela, nous avons utilisé la technologie [Mercure](https://mercure.rocks/){:target="_blank"}, permettant d'envoyer du contenu en temps réel depuis le serveur (et donc la base de données) vers des clients.
 
 L'idée était d'avoir une interface pour tablette très simple d'utilisation pour les 'scoreurs' bénévoles qui devaient saisir les scores des matchs.
 
@@ -50,7 +50,7 @@ L'idée était d'avoir une interface pour tablette très simple d'utilisation po
 ### Test grandeur nature
 Quelques jours avant le Championnat, nous avons eu accès au complexe sportif dans lequel se déroulerait la compétition. Nous avons alors pu tester l'écran géant pour l'affichage des scores, la couverture wifi pour les tablettes servant au marquage des scores et avons pu faire une première démo de la version finale de l'application à une partie des membres de l'association dont certains seraient présent au cours du week-end. Ces tests nous ont permis de corriger certains aspect du design de l'application afin permettre une meilleure lisibilité sur écran géant et sur les appareils mobiles sous la lumière artificielle de la grande salle.
 
-Nous avons également été interviewé par le média numérique [Sport Mag](https://www.sportmag.fr/) qui a fait un reportage sur la compétition. Vous pouvez retrouver un extrait de l'intervention de Hugo MARTI [ici](https://www.youtube.com/watch?v=lkxKTyOwMAQ).
+Nous avons également été interviewé par le média numérique [Sport Mag](https://www.sportmag.fr/){:target="_blank"} qui a fait un reportage sur la compétition. Vous pouvez retrouver un extrait de l'intervention de Hugo MARTI [ici](https://www.youtube.com/watch?v=lkxKTyOwMAQ).
 
 ### Le championnat
 

@@ -27,5 +27,5 @@ Un conseil que vous pourriez donner aux personnes souhaitant améliorer leurs co
 
 Pour aller plus loin:
 
-- ["The Three Laws of TDD"](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html) : Cet article de Robert C. Martin, également connu sous le nom de "Uncle Bob", explique les trois lois fondamentales du TDD. Il s'agit d'une lecture incontournable pour comprendre la philosophie derrière cette pratique de développement logiciel.
-- ["Test Driven Development: By Example"](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) : Ce livre de Kent Beck est une référence en matière de TDD. Il présente de nombreux exemples pratiques pour illustrer comment mettre en place cette pratique dans un projet de développement.
+- ["The Three Laws of TDD"](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html){:target="_blank"} : Cet article de Robert C. Martin, également connu sous le nom de "Uncle Bob", explique les trois lois fondamentales du TDD. Il s'agit d'une lecture incontournable pour comprendre la philosophie derrière cette pratique de développement logiciel.
+- ["Test Driven Development: By Example"](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530){:target="_blank"} : Ce livre de Kent Beck est une référence en matière de TDD. Il présente de nombreux exemples pratiques pour illustrer comment mettre en place cette pratique dans un projet de développement.

@@ -2,11 +2,11 @@
 
 ## Présentation générale
 
-[Docker](https://www.docker.com/) est une technologie de conteneurisation qui permet de créer des conteneurs isolés pour exécuter des applications de manière fiable et cohérente sur différents environnements. La containerisation est un principe qui vise à isoler les processus d'une machine, chaque applicatif fonctionnant dans son propre microsystème afin de ne pas dépendre d'autres composants.
+[Docker](https://www.docker.com/){:target="_blank"} est une technologie de conteneurisation qui permet de créer des conteneurs isolés pour exécuter des applications de manière fiable et cohérente sur différents environnements. La containerisation est un principe qui vise à isoler les processus d'une machine, chaque applicatif fonctionnant dans son propre microsystème afin de ne pas dépendre d'autres composants.
 
 Contrairement à la virtualisation, qui émule un ordinateur complet, la containerisation ne fait fonctionner que la partie logicielle nécessaire et peut interagir directement avec le noyau de la machine, ce qui la rend plus légère que la virtualisation. Cela en fait un choix idéal pour isoler des applications uniques sur un système plus complet.
 
-Docker a été créé en 2013 par Solomon Hykes lors d'un hackathon interne chez [dotCloud](https://www.docker.com/press-release/dotcloud-inc-now-docker-inc/), une entreprise de [PaaS](https://azure.microsoft.com/fr-ca/resources/cloud-computing-dictionary/what-is-paas). Hykes a créé Docker pour résoudre un problème de déploiement de code chez dotCloud, mais la technologie a rapidement attiré l'attention de la communauté open-source et a depuis connu un succès mondial.
+Docker a été créé en 2013 par Solomon Hykes lors d'un hackathon interne chez [dotCloud](https://www.docker.com/press-release/dotcloud-inc-now-docker-inc/){:target="_blank"}, une entreprise de [PaaS](https://azure.microsoft.com/fr-ca/resources/cloud-computing-dictionary/what-is-paas){:target="_blank"}. Hykes a créé Docker pour résoudre un problème de déploiement de code chez dotCloud, mais la technologie a rapidement attiré l'attention de la communauté open-source et a depuis connu un succès mondial.
 
 Avec Docker, il est possible de configurer un conteneur à partir d'une "image", une pré-configuration du système définissable dans des fichiers textuels. Docker permet également l'orchestration de ces conteneurs, notamment la gestion de partages de fichiers entre l'hôte et le conteneur, la connexion à des réseaux virtuels, la multiplication de conteneurs pour répondre à une charge de travail élevée.
 
@@ -14,7 +14,7 @@ Avec Docker, il est possible de configurer un conteneur à partir d'une "image",
 
 Actuellement, Docker est un outil de conteneurisation très populaire dans le monde de l'informatique. Depuis sa création en 2013, Docker a révolutionné la façon dont les applications sont déployées sur des infrastructures à grande échelle.
 
-Docker a récemment annoncé le lancement de [Docker Enterprise 3.1](https://www.docker.com/products/docker-enterprise), la dernière version de leur plateforme de conteneurs d'entreprise. Cette version est conçue pour faciliter la mise en place d'une infrastructure de conteneurs en entreprise et répondre aux besoins spécifiques des grandes organisations.
+Docker a récemment annoncé le lancement de [Docker Enterprise 3.1](https://www.docker.com/products/docker-enterprise){:target="_blank"}, la dernière version de leur plateforme de conteneurs d'entreprise. Cette version est conçue pour faciliter la mise en place d'une infrastructure de conteneurs en entreprise et répondre aux besoins spécifiques des grandes organisations.
 
 Il est également utilisé dans le domaine de l'Internet des objets (IoT). La conteneurisation permet de déployer des applications IoT de manière plus efficace et sécurisée en isolant les applications les unes des autres et en assurant une meilleure gestion des ressources.
 
@@ -47,5 +47,5 @@ Ensuite, je lui conseillerais de toujours créer un conteneur pour chaque "servi
 
 Pour aller plus loin :
 
-- [Une présentation de Docker par Solomon Hykes](https://www.youtube.com/watch?v=Q5POuMHxW-0)
-- [Le guide officiel Docker](https://docs.docker.com/)
+- [Une présentation de Docker par Solomon Hykes](https://www.youtube.com/watch?v=Q5POuMHxW-0){:target="_blank"}
+- [Le guide officiel Docker](https://docs.docker.com/){:target="_blank"}

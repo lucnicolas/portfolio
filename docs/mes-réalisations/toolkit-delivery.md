@@ -20,7 +20,7 @@ J'ai ensuite passé beaucoup de temps à analysé les différentes étapes de la
 
 J'ai ensuite créé un diagramme de Gantt pour planifier et définir les différentes étapes de réalisation du projet durant ma période de stage.
 
-Une fois le projet validé, j'ai commencé à travailler sur l'interface graphique qui permettra à l'utilisateur de saisir les paramètres. J'ai choisi de créer une interface web en utilisant le framework [Angular](https://angular.io/) accompagné d'une [API](../mes-compétences/Techniques/api.md) Java [Spring Boot](https://spring.io/) qui est ensuite chargé d'exécuter les différentes actions.
+Une fois le projet validé, j'ai commencé à travailler sur l'interface graphique qui permettra à l'utilisateur de saisir les paramètres. J'ai choisi de créer une interface web en utilisant le framework [Angular](https://angular.io/){:target="_blank"} accompagné d'une [API](../mes-compétences/Techniques/api.md) Java [Spring Boot](https://spring.io/){:target="_blank"} qui est ensuite chargé d'exécuter les différentes actions.
 
 ![toolkit-delivery-deploy.png](../../img/toolkit-delivery-deploy.png)
 
