@@ -80,7 +80,6 @@ Malheureusement, la crise de la COVID-19 et les confinements successifs ont modi
 
 Ce projet à toutefois été source de nombreux apprentissages humains et techniques ou encore de bonnes pratiques qui nous servent encore aujourd'hui.
 
-
 ## Compétences liées
 - [Analyse du besoin](/mes-compétences/Humaines/analyse-du-besoin)
 - [Déploiement automatisé](/mes-compétences/Techniques/deploiement-automatise)

@@ -1,15 +1,13 @@
 # Conduite de formation
 
-## Présentation générale
+## Contexte
 La conduite de formation est une compétence qui consiste à concevoir et dispenser des formations destinées à un public cible afin de les aider à acquérir de nouvelles compétences ou à améliorer celles qu'ils ont déjà. C'est une compétence essentielle pour les professionnels qui travaillent dans le développement de logiciels, car elle permet de former les utilisateurs finaux sur l'utilisation de nouveaux outils ou de nouvelles fonctionnalités.
 
-## Dans l’actualité
 Avec la pandémie de COVID-19, de nombreuses formations ont été dispensées en ligne, ce qui a entraîné une forte demande de professionnels capables de concevoir et dispenser des formations à distance. Les outils de visioconférence ont été largement utilisés pour assurer la continuité des formations, et les professionnels ont dû s'adapter rapidement pour offrir une expérience de formation de qualité en ligne.
 
-## Dans le monde de l’entreprise
 Dans le monde de l'entreprise, la conduite de formation est une compétence très recherchée car elle permet de former les employés aux nouvelles technologies et aux nouvelles pratiques. Les entreprises cherchent constamment à améliorer leurs processus et à innover, et la conduite de formation est un moyen efficace d'y parvenir. Les entreprises peuvent également proposer des formations à leurs clients pour les aider à mieux utiliser les produits ou services qu'ils proposent.
 
-## Anecdotes
+## Mes expériences
 1. Lorsque j'ai commencé à travailler dans le développement de logiciels, j'ai rapidement compris l'importance de la conduite de formation. J'ai été chargé de former un groupe d'utilisateurs finaux sur l'utilisation d'un nouveau logiciel, et j'ai été confronté à de nombreux défis. Certains utilisateurs étaient très familiers avec l'ancienne version du logiciel, tandis que d'autres n'avaient jamais utilisé de logiciel similaire auparavant. J'ai dû adapter ma formation pour répondre aux besoins de chaque utilisateur et m'assurer que tout le monde comprenait bien les nouvelles fonctionnalités.
 2. Lors d'une formation en entreprise, j'ai été confronté à un participant qui avait beaucoup de difficultés à suivre la formation. Il était distrait, ne posait pas de questions et semblait complètement perdu. J'ai réalisé qu'il avait besoin d'une approche différente et j'ai décidé de lui proposer une séance de formation individuelle. Nous avons travaillé ensemble sur les concepts clés et j'ai pu l'aider à mieux comprendre les sujets abordés. À la fin de la formation, il était beaucoup plus confiant et avait acquis les compétences nécessaires pour utiliser le nouveau logiciel.
 
