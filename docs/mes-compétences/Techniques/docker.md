@@ -25,8 +25,8 @@ conteneurs pour répondre à une charge de travail élevée.
 Actuellement, Docker est un outil de conteneurisation très populaire dans le monde de l'informatique. Depuis sa création
 en 2013, Docker a révolutionné la façon dont les applications sont déployées sur des infrastructures à grande échelle.
 
-Docker a récemment annoncé le lancement de [Docker Enterprise 3.1](https://www.docker.com/products/docker-enterprise){:
-target="_blank"}, la dernière version de leur plateforme de conteneurs d'entreprise. Cette version est conçue pour
+Docker a récemment annoncé le lancement de [Docker Enterprise 3.1](https://www.docker.com/products/docker-enterprise){:target="_blank"},
+la dernière version de leur plateforme de conteneurs d'entreprise. Cette version est conçue pour
 faciliter la mise en place d'une infrastructure de conteneurs en entreprise et répondre aux besoins spécifiques des
 grandes organisations.
 
@@ -92,4 +92,4 @@ facilement.
 Pour aller plus loin :
 
 - [Une présentation de Docker par Solomon Hykes](https://www.youtube.com/watch?v=Q5POuMHxW-0){:target="_blank"}
-- [Le guide officiel Docker](https://docs.docker.com/){:target="_blank"}
+- [La documentation officielle Docker](https://docs.docker.com/){:target="_blank"}

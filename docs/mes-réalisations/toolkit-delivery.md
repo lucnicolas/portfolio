@@ -38,8 +38,9 @@ Je me suis donc occupé de recenser les différentes demandes d'évolutions et d
 L'outil a intéressé les autres départements de l'entreprise et il est maintenant intégré directement à une partie des solutions. Il sert pour déployer des plateformes de développement, de test et de production en interne.
 
 ## Compétences liées
-- [API](../mes-compétences/Techniques/api)
-- [Déploiement automatisé](../mes-compétences/Techniques/deploiement-automatise)
-- [Docker](../mes-compétences/Techniques/docker)
-- [Gestion de projet AGILE](../mes-compétences/Humaines/gestion-de-projet-agile)
-- [Développement de logiciel](../mes-compétences/Techniques/developpement-logiciel)
+- [Adapation](/mes-compétences/Techniques/adaptation)
+- [API](../../mes-compétences/Techniques/api)
+- [Déploiement automatisé](../../mes-compétences/Techniques/deploiement-automatise)
+- [Docker](../../mes-compétences/Techniques/docker)
+- [Gestion de projet AGILE](../../mes-compétences/Humaines/gestion-de-projet-agile)
+- [Développement de logiciel](../../mes-compétences/Techniques/developpement-logiciel)
