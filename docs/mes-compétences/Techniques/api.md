@@ -84,8 +84,7 @@ expérience pratique solide.
 
 Pour aller plus loin :
 
-- ["RESTful API Design - Tips and Tricks"](https://betterprogramming.pub/restful-api-design-tips-and-tricks-31a0f71e6d8f){:
-  target="_blank"} de BetterProgramming : Cet article propose des conseils pour la conception d'API RESTful efficaces.
+- ["RESTful API Design - Tips and Tricks"](https://betterprogramming.pub/restful-api-design-tips-and-tricks-31a0f71e6d8f){:target="_blank"} de BetterProgramming : Cet article propose des conseils pour la conception d'API RESTful efficaces.
   Il aborde notamment les bonnes pratiques de conception et de documentation, ainsi que les stratégies pour gérer les
   erreurs et les versions de l'API.
 
