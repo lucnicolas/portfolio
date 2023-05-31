@@ -29,19 +29,44 @@ approche de développement logiciel qui met l'accent sur l'automatisation, la co
    et des prochaines étapes.
 
 ## Mes expériences
+Lorsque nous avons entrepris la réalisation du projet [PingScore](../../../mes-réalisations/pingscore), nous avons
+adopté la méthodologique Agile avec une approche [Scrum](https://www.scrum.org/learning-series/what-is-scrum).
+Le premier défi auquel nous avons été confrontés était de bien comprendre les besoins des utilisateurs et de s'assurer
+que le produit répondrait à leurs attentes. Nous avons donc organisé une réunion avec des arbitres expérimentés, des
+joueurs de tennis de table et des entraîneurs pour recueillir leurs retours et leurs idées. Grâce à leurs précieuses
+contributions, nous avons pu définir clairement les fonctionnalités essentielles du projet.
 
-1. Lors de mon dernier projet en gestion de projet Agile, j'ai mis en place une approche Kanban pour la gestion des
-   tâches. Nous avons utilisé des tableaux Kanban pour suivre l'état d'avancement des tâches et pour planifier les
-   sprints.
-2. Dans un autre projet, nous avons utilisé la méthode Scrum avec des sprints d'une semaine pour un développement de
-   logiciel. Nous avons tenu des réunions quotidiennes de scrum pour discuter de l'avancement du projet, des obstacles
-   éventuels et des prochaines étapes.
+Une fois la vision commune définie, avec l'équipe, nous avons divisé le projet en itérations appelées "sprints". Nous
+avons créé une liste des fonctionnalités prioritaires, appelée le "product backlog", et nous avons estimé le temps
+nécessaire pour chaque tâche. Ensuite, nous avons planifié notre premier sprint en choisissant les tâches les plus
+importantes et en les répartissant équitablement parmi les membres.
+
+Au début de chaque sprint, nous avons tenu une réunion de planification où nous avons discuté des objectifs et défini
+les tâches spécifiques à accomplir avec notre commanditaire. Nous avons utilisé un
+tableau [Kanban](https://fr.wikipedia.org/wiki/Kanban_(d%C3%A9veloppement)) pour visualiser l'avancement des tâches
+et suivre leur progression. À chaque début de créneau, nous avons tenu une courte réunion, appelée le "daily stand-up",
+pour partager les progrès réalisés, les obstacles rencontrés et éventuellement les tâches à ajuster.
+
+Grâce à cette approche Agile, nous avons pu réagir rapidement aux changements, aux demandes de notre commanditaire
+et aux imprévus. Si une nouvelle idée ou une modification de dernière minute était proposée, nous l'évaluions
+ensemble et l'intégrions au sprint en cours si cela était justifié. Cela nous a permis de rester flexibles et de livrer
+des fonctionnalités utiles à chaque itération.
+
+À la fin de chaque sprint, nous avons organisé une rétrospective pour évaluer ce qui avait bien fonctionné et ce qui
+pouvait être amélioré. Cela nous a permis d'ajuster notre approche et de tirer des leçons précieuses pour les sprints
+suivants.
+
+Avec du recul, je pense que l'adoption de la méthodologie Agile a été un véritable atout pour le projet PingScore. Nous
+avons pu livrer un produit de haute qualité, en respectant les délais et en répondant aux besoins de notre 
+commanditaire et des utilisateurs.
+Cette expérience a renforcé ma conviction dans l'efficacité de ces méthodes et m'a permis d'acquérir une solide 
+expérience dans la gestion de projets agiles.
 
 ## Mon niveau d’acquisition de la compétence
 
-Grâce à mes expériences professionnelles et mes formations, j'ai acquis une solide expertise dans la gestion de projet
-Agile. Je suis capable de gérer les différents aspects du processus Agile, notamment la planification des sprints, la
-définition des tâches, la répartition des rôles et la communication avec les parties prenantes.
+Grâce à mes différentes expériences et ma formation, j'ai acquis une solide expertise dans la gestion de projet
+Agile. Je suis capable de gérer les différents aspects du processus, notamment la planification des sprints, la
+définition des tâches, la répartition des rôles et la communication avec les différentes parties prenantes.
 
 ## Conseils
 
