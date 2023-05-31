@@ -18,7 +18,7 @@ est essentielle pour la réussite des projets et des entreprises en général.
 
 ## Mes expériences
 
-1. Lorsque j'ai commencé ma carrière en tant qu'ingénieur de projet, je me suis rendu compte que la planification était
+1. Lorsque j'ai commencé en tant qu'ingénieur de projet à iTESOFT, je me suis rendu compte que la planification était
    cruciale pour mener à bien mes projets. J'ai travaillé sur un projet complexe qui impliquait de nombreux
    intervenants, des délais serrés et un budget limité. J'ai utilisé des outils de planification tels que des diagrammes
    de Gantt pour établir un plan détaillé, identifier les tâches critiques et suivre l'avancement du projet. Grâce à une
