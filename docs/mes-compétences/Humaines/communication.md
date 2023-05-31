@@ -58,3 +58,7 @@ En guise de conseil pour améliorer sa communication, il est important de prendr
    autant. La posture, les expressions faciales et le langage corporel en général sont des éléments qui peuvent
    influencer la qualité de la communication.
 
+## Projets liés
+
+- [PingScore](../../../mes-réalisations/pingscore)
+- [WorkBoard](../../../mes-réalisations/workboard)

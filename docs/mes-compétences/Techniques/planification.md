@@ -46,3 +46,8 @@ les priorités du projet, ainsi que les contraintes qui y sont associées. Il es
 Enfin, il est essentiel d'avoir une communication claire avec toutes les parties prenantes du projet et de tenir compte
 de leur retour d'information pour ajuster la planification si nécessaire. En suivant ces principes, il est possible de
 planifier de manière plus efficace et de livrer des projets réussis dans les délais impartis.
+
+## Projets liés
+
+- [PingScore](../../../mes-réalisations/pingscore)
+- [WorkBoard](../../../mes-réalisations/workboard)

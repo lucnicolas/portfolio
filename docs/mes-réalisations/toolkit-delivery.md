@@ -39,8 +39,8 @@ L'outil a intéressé les autres départements de l'entreprise et il est mainten
 
 ## Compétences liées
 - [Adapation](/mes-compétences/Techniques/adaptation)
+- [Conduite de formation](/mes-compétences/Humaines/conduite-de-formation)
 - [API](../../mes-compétences/Techniques/api)
 - [Déploiement automatisé](../../mes-compétences/Techniques/deploiement-automatise)
 - [Docker](../../mes-compétences/Techniques/docker)
-- [Gestion de projet AGILE](../../mes-compétences/Humaines/gestion-de-projet-agile)
 - [Développement de logiciel](../../mes-compétences/Techniques/developpement-logiciel)

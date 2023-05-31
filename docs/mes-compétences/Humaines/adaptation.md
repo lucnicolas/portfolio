@@ -51,3 +51,8 @@ formations complémentaires ou de collaborations avec des personnes aux compéte
 également votre réseau professionnel, car les contacts et les ressources externes peuvent être précieux lorsque vous
 êtes confronté à des défis inattendus. En cultivant votre adaptabilité, vous serez mieux préparé pour faire face aux
 changements rapides et tirer parti des opportunités qui se présentent.
+
+## Projets liés
+
+- [PingScore](../../../mes-réalisations/pingscore)
+- [Toolkit Delivery](../../../mes-réalisations/toolkit-delivery)

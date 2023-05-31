@@ -42,3 +42,9 @@ développement telles que les tests unitaires et l'intégration continue.
 Pour aller plus loin :
 
 - [Clean Code - Uncle Bob](https://youtu.be/7EmboKQH8lM){:target="_blank"}
+
+## Projets liés
+
+- [PingScore](../../../mes-réalisations/pingscore)
+- [Toolkit Delivery](../../../mes-réalisations/toolkit-delivery)
+- [WorkBoard](../../../mes-réalisations/workboard)

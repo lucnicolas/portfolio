@@ -73,3 +73,8 @@ définition des tâches, la répartition des rôles et la communication avec les
 Pour améliorer ses compétences en gestion de projet Agile, il est essentiel de se familiariser avec les différents
 frameworks Agile disponibles, tels que Scrum, Kanban, XP, SAFe ou LeSS. Il est également important de bien comprendre
 les principes Agile, notamment
+
+## Projets liés
+
+- [PingScore](../../../mes-réalisations/pingscore)
+- [WorkBoard](../../../mes-réalisations/workboard)

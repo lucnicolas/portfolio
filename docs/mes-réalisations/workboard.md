@@ -33,7 +33,8 @@ En conclusion, le projet WORKBOARD a été une expérience enrichissante pour mo
 
 ## Compétences liées
 - [Analyse du besoin](/mes-compétences/Humaines/analyse-du-besoin)
+- [Communication](/mes-compétences/Humaines/communication)
 - [API](/mes-compétences/Techniques/api)
 - [Développement de logiciel](/mes-compétences/Techniques/developpement-logiciel)
-- [Gestion de projet AGILE](/mes-compétences/Techniques/gestion-de-projet-agile)
+- [Gestion de projet Agile](/mes-compétences/Techniques/gestion-de-projet-agile)
 - [Planification](/mes-compétences/Techniques/planification)

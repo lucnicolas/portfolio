@@ -129,12 +129,13 @@ servent encore aujourd'hui.
 
 - [Adapation](/mes-compétences/Techniques/adaptation)
 - [Analyse du besoin](/mes-compétences/Humaines/analyse-du-besoin)
-- [Déploiement automatisé](/mes-compétences/Techniques/deploiement-automatise)
-- [Planification](/mes-compétences/Techniques/planification)
-- [Développement de logiciel](/mes-compétences/Techniques/developpement-logiciel)
-- [Gestion de projet AGILE](/mes-compétences/Techniques/gestion-de-projet-agile)
 - [Communication](/mes-compétences/Humaines/communication)
 - [Conduite de formation](/mes-compétences/Humaines/conduite-de-formation)
+- [Gestion de projet Agile](/mes-compétences/Techniques/gestion-de-projet-agile)
+- [Déploiement automatisé](/mes-compétences/Techniques/deploiement-automatise)
+- [Planification](/mes-compétences/Techniques/planification)
+- [Docker](/mes-compétences/Techniques/docker)
+- [Développement de logiciel](/mes-compétences/Techniques/developpement-logiciel)
 
 <br>
 <img src="../../img/pingscore-match-termine.png" alt="pingscore-match.png" width="100%" align="left" />

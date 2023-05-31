@@ -60,3 +60,8 @@ la configuration de pipelines de déploiement automatisé pour des applications 
 participant à des conférences et des formations sur l'automatisation de déploiement. Avec de la pratique et de la
 patience, il est possible de devenir un expert en déploiement automatisé et de maximiser les avantages que cela peut
 apporter à une entreprise.
+
+## Projets liés
+
+- [PingScore](../../../mes-réalisations/pingscore)
+- [Toolkit Delivery](../../../mes-réalisations/toolkit-delivery)

@@ -64,3 +64,8 @@ un accueil favorable. En outre, il est essentiel de continuer à se former et à
 Pour aller plus loin :
 
 - [Les 10 outils de base](https://khorum.com/10-outils-d-analyse-du-besoin-projet/){:target="_blank"}
+
+## Projets liés
+
+- [PingScore](../../../mes-réalisations/pingscore)
+- [WorkBoard](../../../mes-réalisations/workboard)

@@ -63,3 +63,8 @@ besoins et des attentes de votre public. N'oubliez pas non plus d'être patient 
 répondre aux questions et aux préoccupations de vos apprenants. Avec de la pratique et de l'expérience, vous serez en
 mesure de devenir un excellent formateur et de contribuer efficacement au développement des compétences de vos collègues
 ou de vos clients.
+
+## Projets liés
+
+- [PingScore](../../../mes-réalisations/pingscore)
+- [Toolkit Delivery](../../../mes-réalisations/toolkit-delivery)

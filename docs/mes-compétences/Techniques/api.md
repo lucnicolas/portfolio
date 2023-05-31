@@ -88,3 +88,8 @@ Pour aller plus loin :
   target="_blank"} de BetterProgramming : Cet article propose des conseils pour la conception d'API RESTful efficaces.
   Il aborde notamment les bonnes pratiques de conception et de documentation, ainsi que les stratégies pour gérer les
   erreurs et les versions de l'API.
+
+## Projets liés
+
+- [Toolkit Delivery](../../../mes-réalisations/toolkit-delivery)
+- [WorkBoard](../../../mes-réalisations/workboard)
