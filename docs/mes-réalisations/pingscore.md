@@ -50,10 +50,8 @@ des joueurs en train de jouer et le flux vidéo en direct si disponible.
 Il y avait également toute une partie pour l'administration de la compétition (création, saisie des joueurs, etc) et
 pour la gestion des matchs (sous forme de télécommande).
 
-Le visuel a été fait avec les technologies [HTML](https://developer.mozilla.org/fr/docs/Web/HTML){:target="_
-blank"}, [CSS](https://developer.mozilla.org/fr/docs/Web/CSS){:target="_blank"}
-et [JavaScript](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/What_is_JavaScript){:target="_
-blank"}.
+Le visuel a été fait avec les technologies [HTML](https://developer.mozilla.org/fr/docs/Web/HTML){:target="_blank"}, [CSS](https://developer.mozilla.org/fr/docs/Web/CSS){:target="_blank"}
+et [JavaScript](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/What_is_JavaScript){:target="blank"}.
 
 Afin de faire fonctionner de l'application, nous avons dû développer de zéro toute la logique en nous basant sur nos
 nouvelles connaissances du tennis de table. Il fallait faire le lien avec la base de données que nous concevions au fil
