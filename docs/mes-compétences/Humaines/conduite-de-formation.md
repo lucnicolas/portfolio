@@ -44,9 +44,9 @@ les informations et évaluer la compréhension des participants.
 ## Mon niveau d’acquisition de la compétence
 
 En tant qu'ingénieur projet dans le développement de logiciels, **j'ai acquis une expérience significative dans la
-conduite de formation**. J'ai conçu et dispensé de plusieurs formations pour des utilisateurs finaux, des clients et des
+conduite de formation**. J'ai conçu et dispensé plusieurs formations pour des utilisateurs finaux, des clients et des
 collègues. J'ai appris à adapter mes formations en fonction du public cible et à utiliser des méthodes d'enseignement
-variées pour répondre aux besoins de chacun. Je suis également capable de concevoir des supports de formation efficaces de façon automome.
+variées pour répondre aux besoins de chacun. Je suis également capable de concevoir des supports de formation efficaces de façon autonome.
 
 ## Conseil
 

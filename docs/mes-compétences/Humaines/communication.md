@@ -30,7 +30,8 @@ fournir des **solutions adaptées**.
 **Je considère que ma compétence en communication est bonne.** En tant qu'ingénieur de projet, je dois être
 **capable de communiquer avec une variété de personnes**, depuis les membres de l'équipe jusqu'aux clients en passant par
 les partenaires. J'ai appris à m'adapter à différents niveaux de connaissances techniques et à être clair et précis dans
-mes explications. Avec le développement du télétravail, la maitrise de la communication à travers des logiciels de visioconférence est obligatoire.
+mes explications. Avec le développement du télétravail, la maîtrise de la communication à travers des logiciels de 
+visioconférence est obligatoire.
 
 ## Conseil
 

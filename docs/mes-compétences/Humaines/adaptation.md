@@ -14,9 +14,9 @@ Ceux qui ont fait preuve d'adaptabilité ont réussi à s'ajuster rapidement et 
 collaborer et de résoudre les problèmes.
 
 L'adaptabilité est également cruciale dans le contexte des entreprises. Les organisations évoluent constamment pour
-s'adapter aux nouvelles technologies, aux demandes du marché, notament en terme de sécurité et aux besoins changeants des clients.
+s'adapter aux nouvelles technologies, aux demandes du marché, notamment en termes de sécurité et aux besoins changeants des clients.
 
-## Mes experiences
+## Mes expériences
 
 1. Lors de mon arrivé en stage au sein d'iTESOFT, j'ai dû m'adapter à un environnement de travail entièrement nouveau.
    J'ai dû apprendre à utiliser de nouveaux outils et technologies, à travailler avec des personnes de différents
@@ -37,7 +37,7 @@ s'adapter aux nouvelles technologies, aux demandes du marché, notament en terme
 Grâce à mes expériences professionnelles et académiques, **j'ai acquis un niveau solide d'adaptabilité**. J'ai pu démontrer
 ma capacité à **m'adapter rapidement aux nouvelles situations**, à apprendre de **nouvelles compétences techniques** et à
 **trouver des solutions innovantes**. Mon parcours m'a permis de développer ma **résilience**, ma **flexibilité** et mon habileté à
-travailler efficacement dans des environnements en évolution constante.
+travailler efficacement dans des environnements en constante évolution.
 
 ## Conseil
 

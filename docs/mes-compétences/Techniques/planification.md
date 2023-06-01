@@ -32,7 +32,7 @@ est essentielle pour la réussite des projets et des entreprises en général.
 ## Mon niveau d’acquisition de la compétence
 
 Je considère que je suis très compétent en matière de planification. J'ai acquis une grande expérience dans la
-planification de projets de toutes tailles et de toutes complexités. J'ai également développé des compétences en matière
+planification de projets de toute taille et de toute complexité. J'ai également développé des compétences en matière
 de gestion des risques, ce qui m'aide à anticiper les problèmes potentiels et à élaborer des plans pour y faire face. Je
 suis également en mesure de travailler efficacement avec des équipes et de communiquer clairement les plans aux parties
 prenantes.

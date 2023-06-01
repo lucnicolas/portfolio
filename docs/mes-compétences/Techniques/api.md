@@ -49,7 +49,7 @@ API sont généralement soigneusement testées, tout comme n'importe quel autre 
 et sont parfois même utilisées par le produit lui-même. Par exemple, l'interface utilisateur d'une application est
 de temps en temps construite sur les mêmes API qui sont fournies aux tiers.
 
-La popularité de langages de codage plus simples tels que Python a permis à plus de personne de construire des
+La popularité de langages de codage plus simples tels que Python a permis à plus de personnes de construire des
 applications et de consommer ces API. Ils obtiennent les résultats souhaités sans avoir à engager des ingénieurs de
 développement coûteux.
 
@@ -57,8 +57,8 @@ développement coûteux.
 
 1. Pour le projet interne iTESOFT [Toolkit-Delivery](../../../mes-réalisations/toolkit-delivery), j'ai dû développer une
    API pour connecter l'application à différents services comme l'API Azure et l'API vSphère pour permettre
-   d'automatiser l'ensemble de la chaine de déploiement. Cela a permis de rendre le déploiement de nouvelles plateformes
-   plus rapide et plus efficace. Aujourd'hui cet outil permet de monter une solution complète standard en une
+   d'automatiser l'ensemble de la chaîne de déploiement. Cela a permis de rendre le déploiement de nouvelles plateformes
+   plus rapide et plus efficace. Aujourd'hui, cet outil permet de monter une solution complète standard en une
    demi-journée contre deux jours auparavant.
 2. J'ai également travaillé sur
    un [projet de développement d'application web pour la CRESS Nouvelle-Aquitaine](../../../mes-réalisations/essentiel).

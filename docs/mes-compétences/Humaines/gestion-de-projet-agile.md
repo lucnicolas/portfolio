@@ -17,7 +17,7 @@ travailler de manière plus **efficace** et **flexible**. En utilisant des cycle
 collaboratifs, les équipes peuvent rapidement produire des résultats de qualité supérieure.
 
 La gestion de projet Agile est utilisée dans de nombreux domaines, y compris le développement de logiciels, la
-gestion de projet, le marketing et même la gestion des ressources humaines. La méthodologie Agile est devenue une
+gestion de projet, le marketing, et même la gestion des ressources humaines. La méthodologie Agile est devenue une
 **méthode de gestion de projet populaire** en raison de sa capacité à favoriser l'efficacité, la transparence et la
 flexibilité. Elle permet aux équipes de relever les défis du développement de logiciels en privilégiant une
 communication ouverte et continue avec les parties prenantes, en encourageant la collaboration et en offrant une flexibilité pour s'adapter aux changements.

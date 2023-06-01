@@ -4,10 +4,10 @@
 
 [Docker](https://www.docker.com/){:target="_blank"} est une technologie de conteneurisation qui permet de créer des
 conteneurs isolés pour exécuter des applications de manière fiable et cohérente sur différents environnements. La
-containerisation est un principe qui vise à isoler les processus d'une machine, chaque applicatif fonctionnant dans son
-propre microsystème afin de ne pas dépendre d'autres composants.
+conteneurisation est un principe qui vise à isoler les processus d'une machine, chaque applicatif fonctionnant dans son
+propre micro-système afin de ne pas dépendre d'autres composants.
 
-Contrairement à la virtualisation, qui émule un ordinateur complet, la containerisation ne fait fonctionner que la
+Contrairement à la virtualisation, qui émule un ordinateur complet, la conteneurisation ne fait fonctionner que la
 partie logicielle nécessaire et peut interagir directement avec le noyau de la machine, ce qui la rend plus légère que
 la virtualisation. Cela en fait un choix idéal pour isoler des applications uniques sur un système plus complet.
 
@@ -46,7 +46,7 @@ en réduisant les coûts et les risques associés.
 Avec la multiplication des services et des dépendances logicielles, il devient de plus en plus difficile de configurer
 un système avec plusieurs applications sans se heurter à des incompatibilités, en particulier pour les systèmes
 critiques tels que les centres d'appels d'hôpitaux ou les applications de facturation. Pour résoudre ce problème, la
-containerisation avec Docker est devenue une solution populaire.
+conteneurisation avec Docker est devenue une solution populaire.
 
 En utilisant des conteneurs, chaque service peut être isolé dans son propre environnement, chaque conteneur ayant une
 image configurée avec les dépendances qui lui sont propres. Cette approche permet d'automatiser simplement et rapidement
