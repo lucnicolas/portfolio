@@ -32,12 +32,13 @@ pour accélérer l'innovation et la transformation numérique des entreprises.
 1. Lors de mon stage à iTESOFT, j'ai constaté que la solution sur laquelle je travaillais avait un processus de
    déploiement manuel complexe et chronophage. J'ai donc proposé de mettre en place un système de déploiement automatisé
    qui permettrait de déployer rapidement les différents produits de la solution sur les environnements de
-   développement. Ce projet nommé [Toolkit-Delivery](/mes-réalisations/toolkit-delivery) est encore en cours 
+   développement. Ce projet nommé [Toolkit-Delivery](../../../mes-réalisations/toolkit-delivery) est encore en cours 
    aujourd'hui, mais il permet déjà aux équipes de gagner beaucoup de temps et de se concentrer sur le 
    développement de nouvelles
    fonctionnalités plutôt que sur le déploiement.
 
-2. Lors du développement du projet [PingScore](/mes-réalisations/pingscore), j'ai mis en place une infrastructure de
+2. Lors du développement du projet [PingScore](../../../mes-réalisations/pingscore), j'ai mis en place une 
+   infrastructure de
    déploiement automatisé pour accélérer le processus de mise en production. En utilisant des outils d'automatisation de
    déploiement tels que Ansible et Jenkins, j'ai mis en place un processus permettant de déployer l'application sur
    plusieurs environnements en quelques minutes seulement, ce qui nous a permis de gagner du temps et de minimiser les
