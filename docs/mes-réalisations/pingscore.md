@@ -5,13 +5,12 @@
 PingScore est un projet informatique réalisé par Hugo MARTI et moi-même dans le cadre de notre formation en ingénierie
 du logiciel à INTECH.
 
-Le projet a été réalisé en partenariat avec l'[Association Perrier Cheminot Nîmois (ASPCN)](http://aspcn.fr/){:target="_
-blank"}, le principal club de tennis de table amateur et professionnel de la ville de Nîmes.
+Le projet a été réalisé en partenariat avec l'[Association Perrier Cheminot Nîmois (ASPCN)](http://aspcn.fr/){:target="_blank"}, 
+le principal club de tennis de table amateur et professionnel de la ville de Nîmes.
 
 Notre mission était de développer une application de live-scoring pour permettre aux spectateurs de suivre en direct et
 à distance
-le [Championnat de France de Tennis de Table Handisport qui a eu lieu en juin 2019](http://tthandisport.org/2019/06/10/championnat-de-france-elite/){:
-target="_blank"}.
+le [Championnat de France de Tennis de Table Handisport qui a eu lieu en juin 2019](http://tthandisport.org/2019/06/10/championnat-de-france-elite/){:target="_blank"}.
 
 ## Les objectifs
 
