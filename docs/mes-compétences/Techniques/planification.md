@@ -2,16 +2,16 @@
 
 ## Contexte
 
-La planification est une compétence essentielle dans le monde de l'entreprise. Elle consiste à élaborer des plans pour
-atteindre des objectifs spécifiques. La planification peut être utilisée pour des projets, des événements, des activités
-quotidiennes, des tâches à court ou à long terme. Elle nécessite une bonne compréhension des ressources disponibles, des
-délais, des priorités et des contraintes potentielles.
+La planification est une compétence essentielle dans le monde de l'entreprise. Elle consiste à **élaborer des plans pour
+atteindre des objectifs spécifiques**. La planification peut être utilisée pour des projets, des événements, des 
+activités quotidiennes, des tâches à court ou à long terme. Elle nécessite une bonne compréhension des ressources 
+disponibles, des délais, des priorités et des contraintes potentielles.
 
-La planification est particulièrement importante depuis la pandémie de COVID-19. Les gouvernements du monde entier
+Récemment, la pandémie de COVID-19 à bouleverser ce domaine. Les gouvernements du monde entier
 ont dû mettre en place des plans de réponse pour faire face à la crise sanitaire. Les entreprises ont également dû
 élaborer des plans pour continuer à fonctionner dans un environnement incertain et en évolution rapide.
 
-Dans le monde de l'entreprise, la planification est une compétence clé pour les responsables de projet, les chefs
+La planification est une compétence clé pour les responsables de projet, les chefs
 d'équipe et les gestionnaires en général. Elle permet de gérer efficacement les ressources, de définir des objectifs
 clairs, d'élaborer des budgets et des calendriers réalistes, de prévoir les risques et de les gérer. La planification
 est essentielle pour la réussite des projets et des entreprises en général.
@@ -31,11 +31,11 @@ est essentielle pour la réussite des projets et des entreprises en général.
 
 ## Mon niveau d’acquisition de la compétence
 
-Je considère que je suis très compétent en matière de planification. J'ai acquis une grande expérience dans la
-planification de projets de toute taille et de toute complexité. J'ai également développé des compétences en matière
-de gestion des risques, ce qui m'aide à anticiper les problèmes potentiels et à élaborer des plans pour y faire face. Je
-suis également en mesure de travailler efficacement avec des équipes et de communiquer clairement les plans aux parties
-prenantes.
+Je considère que je suis compétent en matière de planification grâce aux divers projets sur lequel j'ai pu 
+travailler ces dernières années. J'ai acquis une grande expérience dans la planification de projets de divers taille 
+et de toute complexité. J'ai également développé des compétences en matière de gestion des risques, ce qui m'aide à 
+anticiper les problèmes potentiels et à élaborer des plans pour y faire face. Je suis par ailleurs en mesure de 
+travailler efficacement avec des équipes et de communiquer clairement les plans aux parties prenantes.
 
 ## Conseil
 

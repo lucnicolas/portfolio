@@ -32,9 +32,9 @@ Bien que ce ne soit pas le projet le plus abouti que j'ai pu réaliser, j'ai bea
 En conclusion, le projet WORKBOARD a été une expérience enrichissante pour moi et mes collègues, nous avons travaillé sur une technologie nouvelle et appris de nouvelles compétences dans un contexte réel d'entreprise. Si nous avions pu poursuivre le projet, nous aurions certainement pu améliorer l'application et la rendre plus fonctionnelle pour les commerciaux de Würth
 
 ## Compétences liées
-- [Analyse du besoin](/mes-compétences/Humaines/analyse-du-besoin)
-- [Communication](/mes-compétences/Humaines/communication)
-- [API](/mes-compétences/Techniques/api)
-- [Développement de logiciel](/mes-compétences/Techniques/developpement-logiciel)
-- [Gestion de projet Agile](/mes-compétences/Techniques/gestion-de-projet-agile)
-- [Planification](/mes-compétences/Techniques/planification)
+- [Analyse du besoin](../../mes-compétences/Humaines/analyse-du-besoin)
+- [Communication](../../mes-compétences/Humaines/communication)
+- [API](../../mes-compétences/Techniques/api)
+- [Développement de logiciel](../../mes-compétences/Techniques/developpement-logiciel)
+- [Gestion de projet Agile](../../mes-compétences/Techniques/gestion-de-projet-agile)
+- [Planification](../../mes-compétences/Techniques/planification)

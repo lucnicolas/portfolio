@@ -2,8 +2,9 @@
 
 ## Contexte
 
-Le déploiement automatisé est un processus qui permet de déployer des applications de manière efficace, rapide et
-reproductible en automatisant les tâches répétitives et fastidieuses du processus de déploiement. Cette compétence clé
+Le déploiement automatisé est un processus qui permet de **déployer des applications de manière efficace**, rapide et
+reproductible en ***automatisant les tâches répétitives** et fastidieuses du processus de déploiement. Cette 
+compétence clé
 est très recherchée, en particulier dans les entreprises de développement de logiciels. Elle permet de déployer des
 applications de manière efficace, rapide et reproductible en automatisant les tâches répétitives et fastidieuses du
 processus de déploiement. Cette compétence requiert une compréhension approfondie des outils et des processus
@@ -46,10 +47,10 @@ pour accélérer l'innovation et la transformation numérique des entreprises.
 
 ## Mon niveau d’acquisition de la compétence
 
-J'ai une connaissance approfondie des outils d'automatisation de déploiement tels que Ansible, Jenkins, Terraform et
+J'ai **une connaissance approfondie des outils d'automatisation de déploiement** tels que Ansible, Jenkins, Terraform et
 Kubernetes. Je suis capable de concevoir, de configurer et d'optimiser des pipelines de déploiement automatisé pour une
-variété d'applications et d'environnements. J'ai également une compréhension approfondie des bonnes pratiques de
-déploiement et des processus d'automatisation de la livraison de logiciels.
+variété d'applications et d'environnements. J'ai également une compréhension approfondie des **bonnes pratiques de
+déploiement et des processus d'automatisation** de la livraison de logiciels.
 
 ## Conseil
 

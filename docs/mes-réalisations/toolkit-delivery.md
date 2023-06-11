@@ -13,6 +13,7 @@ Cet outil devait être simple d'utilisation et permettre de réduire le temps de
 La première étape a été de définir le périmètre du projet. L'idée était d'avoir un outil simple et fonctionnel rapidement. Après quelques échanges avec mon manager, nous avons décidé de concentrer le projet sur une seule solution en ciblant uniquement les cas d'utilisation du département "projet" qui s'occupe de paramétrer les solutions en fonction des besoins des clients puis de les déployer sur les serveurs clients.
 
 La solution choisie se décompose en deux parties :
+
 - 1 serveur Windows où sont déployés des applications historiques en client lourd.
 - 1 serveur Linux où sont déployés des applications plus récentes _dockerisées_.
 
@@ -38,8 +39,8 @@ Je me suis donc occupé de recenser les différentes demandes d'évolutions et d
 L'outil a intéressé les autres départements de l'entreprise et il est maintenant intégré directement à une partie des solutions. Il sert pour déployer des plateformes de développement, de test et de production en interne.
 
 ## Compétences liées
-- [Adapation](/mes-compétences/Techniques/adaptation)
-- [Conduite de formation](/mes-compétences/Humaines/conduite-de-formation)
+- [Adapation](../../mes-compétences/Humaines/adaptation)
+- [Conduite de formation](../../mes-compétences/Humaines/conduite-de-formation)
 - [API](../../mes-compétences/Techniques/api)
 - [Déploiement automatisé](../../mes-compétences/Techniques/deploiement-automatise)
 - [Docker](../../mes-compétences/Techniques/docker)

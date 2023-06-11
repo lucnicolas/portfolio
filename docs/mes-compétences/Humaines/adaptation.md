@@ -27,7 +27,7 @@ s'adapter aux nouvelles technologies, aux demandes du marché, notamment en term
    personnes de différents départements et en m'adaptant à leurs méthodes de travail.
 2. Pendant mon contrat en alternance chez iTESOFT, j'ai été confronté de nombreuses fois à des situations où j'ai dû
    m'adapter rapidement. Notamment pour répondre rapidement aux demandes des clients et aux divers problèmes rencontrés
-   sur (les projets)[../../../mes-réalisations/projets-itesoft].
+   sur [les projets](../../../mes-réalisations/projets-itesoft).
    Par exemple, un jour lors d'une assistance client, j'ai dû faire face à un problème de performance sur une de nos
    applications. J'ai dû rapidement identifier la cause du problème et trouver une solution pour le résoudre. J'ai
    dû m'adapter à une situation inattendue et trouver une solution efficace pour résoudre le problème.
