@@ -2,23 +2,24 @@
 
 ## Contexte
 
-L'analyse du besoin client est une compétence clé pour tout professionnel travaillant dans le domaine de l'ingénierie
-logicielle. Cette compétence consiste à **comprendre les besoins et les attentes des clients** en matière de produits ou de
-services, afin de **concevoir des solutions adaptées à leurs besoins**.
+Comprendre les besoins et les attentes des clients est une **compétence essentielle** pour les professionnels évoluant dans
+le domaine de l'ingénierie logicielle. Cette compétence implique de mener une **analyse approfondie** afin de concevoir des
+solutions personnalisées qui **répondent parfaitement aux besoins des clients**.
 
-Récemment, la pandémie de COVID-19 a mis l'accent sur l'importance de l'analyse des besoins pour comprendre les besoins
-changeants des clients et des utilisateurs finaux. De nombreuses entreprises ont dû s'adapter rapidement
-aux nouvelles réalités du travail à distance et de la consommation en ligne, ce qui a entraîné des changements
-significatifs dans les besoins et les attentes des clients.
+Dans un monde en constante évolution, il est crucial de rester à l'écoute des besoins changeants des clients et des
+utilisateurs finaux. Les entreprises doivent donc s'adapter rapidement pour répondre à ces
+nouvelles réalités, que ce soit en termes de travail à distance, de consommation en ligne ou d'autres changements
+majeurs.
 
-L'analyse des besoins est également de plus en plus associée à des approches de **développement durable** et de
-**responsabilité sociale des entreprises**, dans lesquelles les entreprises cherchent à comprendre et à **répondre aux besoins**
-des parties prenantes (clients, employés, communautés locales, etc.) **de manière éthique et durable**.
+Par ailleurs, l'analyse des besoins est désormais étroitement liée aux principes du développement durable et de 
+[la responsabilité sociétale des entreprises](https://www.insee.fr/fr/statistiques/1281346). Les entreprises aspirent à  
+comprendre et à répondre de manière éthique et
+durable aux besoins de toutes les parties prenantes, qu'il s'agisse des clients, des employés ou des communautés
+locales.
 
-Aujourd'hui, l'analyse du besoin client est **une compétence nécessaire**, en particulier dans les domaines de
-l'informatique et du numérique. Les entreprises qui réussissent dans ces domaines sont souvent celles qui sont capables
-de concevoir des solutions innovantes qui répondent réellement aux besoins des clients. Les professionnels qui
-maîtrisent l'analyse du besoin client sont donc très appréciés des employeurs.
+Aujourd'hui, la maîtrise de l'analyse des besoins clients est devenue indispensable, notamment dans les domaines de
+l'informatique et du numérique. Les entreprises qui réussissent sont celles qui parviennent à concevoir des solutions
+innovantes qui répondent réellement aux besoins des clients.
 
 ## Mes expériences
 
