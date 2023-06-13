@@ -2,27 +2,46 @@
 
 ## Contexte
 
-Le développement de logiciel est l'un des domaines d'expertise les plus importants dans le monde de la technologie. Il
-englobe toutes les étapes de la création de logiciels, de la conception à la mise en production en passant par la
-programmation et les tests.
+Le développement de logiciel est l'un des domaines d'expertise **les plus importants dans le monde de la 
+technologie**. Il englobe toutes les étapes de la **création de logiciels**, de la **conception** à la **mise en production** en 
+passant par la **programmation** et les **tests**.
 
-Avec la numérisation croissante de notre monde, le développement de logiciel est en constante évolution. De nouvelles
-technologies émergent constamment, telles que l'IA, la blockchain et l'Internet des objets, et les développeurs de
+Avec la digitalisation croissante de notre monde, le développement de logiciel est en constante évolution. De **nouvelles
+technologies émergent constamment**, telles que l'IA, la blockchain et l'Internet des objets, et les développeurs de
 logiciels doivent s'adapter pour rester pertinents.
 
 Le développement de logiciel est un élément clé de nombreuses entreprises, car les logiciels sont utilisés pour
 automatiser des tâches, stocker des données, améliorer les processus, et bien plus encore. Les entreprises qui
-souhaitent rester compétitives sur le marché doivent être en mesure de développer rapidement des logiciels de haute
-qualité pour répondre aux besoins de leurs clients.
+souhaitent rester compétitives sur le marché doivent être en possession d'outils performants et fiables pour répondre 
+à leurs besoins. Le développement logiciel est donc un atout majeur pour aider ces entreprises à atteindre leurs
+objectifs.
 
 ## Mes expériences
 
-1. J'ai travaillé sur un projet pour une entreprise de fabrication où j'ai développé un logiciel pour automatiser leur
-   processus de production. Le logiciel a permis à l'entreprise de gagner un temps précieux et d'améliorer la qualité de
-   leurs produits.
-2. J'ai également travaillé sur un projet pour une entreprise de commerce électronique où j'ai développé une
-   fonctionnalité de recherche avancée pour leur site web. Cette fonctionnalité a permis aux utilisateurs de trouver
-   plus facilement les produits qu'ils recherchaient, ce qui a augmenté les ventes de l'entreprise.
+Lors d'un projet de développement logiciel à iTESOFT, j'ai eu l'occasion de travailler sur une fonctionnalité clé
+d'une solution de gestion des processus métier pour un client dans le secteur de la finance. Cette fonctionnalité
+impliquait la mise en place d'un moteur de décision pour automatiser certaines tâches critiques.
+
+J'ai passé de nombreuses heures à concevoir l'algorithme de décision, en prenant en compte les règles métier spécifiques
+du client, les différentes conditions et les résultats attendus. Après avoir implémenté l'algorithme, j'ai procédé à une
+série de tests pour vérifier sa performance et sa fiabilité.
+
+Lors de l'une de ces phases de tests, j'ai remarqué un comportement inattendu du moteur de décision. Il ne
+produisait pas les résultats attendus pour certains cas particuliers. J'ai immédiatement commencé à analyser les logs, à
+examiner le code et à tester différentes hypothèses pour comprendre la source du problème.
+
+Après plusieurs heures d'investigation intense, j'ai finalement identifié l'erreur. Elle était due à une condition
+manquante dans l'algorithme qui n'avait pas été prise en compte lors de l'implémentation initiale. C'était un cas de
+figure très spécifique qui n'avait pas été anticipé lors de la conception.
+
+Je me suis senti frustré de ne pas avoir détecté cette condition plus tôt, mais j'ai rapidement compris qu'il
+s'agissait d'une opportunité d'apprentissage. J'ai pris des mesures pour corriger l'erreur en ajoutant la condition
+manquante et en effectuant les tests nécessaires pour m'assurer que le moteur de décision fonctionnait correctement dans
+toutes les situations.
+
+Cette expérience m'a enseigné l'importance de la rigueur et de l'attention aux détails lors du développement de
+logiciels. Elle m'a également appris à être persévérant face aux problèmes et à ne pas hésiter à remettre en question
+mes propres solutions pour trouver la meilleure approche.
 
 ## Mon niveau d’acquisition de la compétence
 

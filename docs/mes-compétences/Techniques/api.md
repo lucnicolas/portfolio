@@ -62,11 +62,13 @@ développement coûteux.
    d'automatiser l'ensemble de la chaîne de déploiement. Cela a permis de rendre le déploiement de nouvelles plateformes
    plus rapide et plus efficace. Aujourd'hui, cet outil permet de monter une solution complète standard en une
    demi-journée contre deux jours auparavant.
-2. J'ai également travaillé sur
-   un [projet de développement d'application web pour la CRESS Nouvelle-Aquitaine](../../../mes-réalisations/essentiel).
-   Dans le cadre de ce projet, j'ai créé une API pour permettre aux utilisateurs de voir l'ensemble des structures ESS
-   dans leur région. Cette API a permis de charger des structures depuis d'autres plateformes pour rendre le site
-   utilisable dès les premiers jours.
+2. Durant ma formation à INTECH, j'ai travaillé sur un 
+[projet de développement d'application pour le laboratoire Pythocontrol](../../../mes-réalisations/essentiel).
+   Dans le cadre de ce projet, j'ai été chargé de développer une API REST pour permettre à l'application de communiquer
+    avec le SI du laboratoire. J'ai également dû développer une API pour permettre à l'application de
+    communiquer avec le serveur de base de données pour y stocker les formations créent par les formateurs, 
+   enregistrer les progressions des utilisateurs sur leurs formations, etc. Ma bonne maîtrise des APIs m'a permis de
+    développer ces APIs rapidement et efficacement.
 
 ## Mon niveau d’acquisition de la compétence
 
