@@ -51,15 +51,13 @@ variées pour répondre aux besoins de chacun. Je suis également capable de con
 ## Conseil
 
 En conclusion, la conduite de formation est une compétence cruciale pour tout professionnel souhaitant transmettre ses
-connaissances et ses compétences à ses collègues ou à ses clients. Pour améliorer votre niveau dans cette compétence, il
-est important de vous entraîner régulièrement, de vous tenir informé des dernières tendances en matière de formation et
-de vous adapter aux différents publics que vous rencontrez.
+connaissances et ses compétences à ses collègues ou à ses clients. Pour améliorer son niveau dans cette compétence, il
+est important de s'entraîner régulièrement, de se tenir informé des dernières tendances en matière de formation et
+de s'adapter aux différents publics que l'on rencontre.
 
 Mon conseil serait de toujours garder en tête les objectifs de la formation et d'adapter votre approche en fonction des
-besoins et des attentes de votre public. N'oubliez pas non plus d'être patient et de vous montrer disponible pour
-répondre aux questions et aux préoccupations de vos apprenants. Avec de la pratique et de l'expérience, vous serez en
-mesure de devenir un excellent formateur et de contribuer efficacement au développement des compétences de vos collègues
-ou de vos clients.
+besoins et des attentes de votre public. Il est important d'être patient et de se montrer disponible pour
+répondre aux questions et aux préoccupations des apprenants.
 
 ## Projets liés
 

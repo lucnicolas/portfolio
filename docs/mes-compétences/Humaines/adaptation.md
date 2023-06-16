@@ -41,12 +41,11 @@ travailler efficacement dans des environnements en constante évolution.
 
 ## Conseil
 
-Pour renforcer votre adaptabilité, il est essentiel de rester curieux et ouvert aux nouvelles idées et technologies.
-Cherchez des occasions d'apprendre et de vous mettre au défi, que ce soit par le biais de projets personnels, de
-formations complémentaires ou de collaborations avec des personnes aux compétences différentes des vôtres. Développez
-également votre réseau professionnel, car les contacts et les ressources externes peuvent être précieux lorsque vous
-êtes confronté à des défis inattendus. En cultivant votre adaptabilité, vous serez mieux préparé pour faire face aux
-changements rapides et tirer parti des opportunités qui se présentent.
+Pour renforcer son adaptabilité, il est essentiel de rester curieux et ouvert aux nouvelles idées et technologies.
+Il faut chercher des occasions d'apprendre et de se mettre au défi, que ce soit par le biais de projets personnels, de
+formations complémentaires ou de collaborations avec des personnes aux compétences différentes des siennes. Il peut 
+être également important de développer son réseau professionnel, car les contacts et les ressources externes 
+peuvent être précieux lorsque l'on est confronté à des défis inattendus.
 
 ## Projets liés
 

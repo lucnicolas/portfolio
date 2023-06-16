@@ -20,7 +20,7 @@ fournir des **solutions adaptées**.
 
 ## Mes expériences
 
-Sur [un projet client iTESOFT]((../../../mes-réalisations/projets-itesoft), j'ai eu l'occasion de démontrer ma maîtrise de la compétence en
+Sur [un projet client iTESOFT](../../../mes-réalisations/projets-itesoft), j'ai eu l'occasion de démontrer ma maîtrise de la compétence en
 communication lors d'une situation critique qui nécessitait une coordination et une collaboration efficaces.
 
 Nous étions en pleine phase de déploiement d'une plateforme de développement pour l'un de nos clients. C'était un projet
