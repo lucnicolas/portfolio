@@ -5,18 +5,34 @@ Le projet WORKBOARD a été initié dans le cadre d'un projet étudiant avec mes
 ## Le contexte
 La branche française de la multinationale Würth avait du mal à synchroniser les informations collectées par les commerciaux. Afin de centraliser efficacement toutes ces informations, nous avons proposé une application mobile pour simplifier la collecte des données.
 
+![wurth-panneau.png](../../img/wurth-panneau.png)
+
 ## Les objectifs
 - Prendre des photos géolocalisées de panneaux de chantiers ;
 - Créer et éditer des fiches entreprises depuis un panneau et les enregistrer dans une base de données locale ;
 - Synchroniser la base de données locale avec une base de données en ligne.
 
 ## Les étapes de réalisation
-Nous avons commencé par établir un cahier des charges en fonction des besoins de Würth France. Nous avons dû faire plusieurs révisions du projet pour répondre à certaines demandes qui s'avéraient difficiles à mettre en place ou simplement impossibles dans le temps imparti.
+Dans notre projet, nous avons commencé par établir les besoins du client et rédigé un cahier des charges détaillé. 
+Cependant, tout au long du projet, nous avons dû faire face à plusieurs révisions, car certaines des demandes du 
+client, telles que l'intelligence artificielle, le big data et la blockchain, étaient trop complexes à mettre en 
+œuvre dans le temps imparti.
 
-Une fois le projet validé, nous avons commencé à développer l'application en Java Android qui se lie à une API en PHP pour fournir des opérations CRUD en base de données.
+Une fois que le projet a été approuvé, nous avons commencé à poser la structure de notre application en utilisant Java Android et en reliant une API en PHP pour gérer les opérations CRUD sur la base de données.
 
-J'ai été en charge de veiller à la cohérence du code et j'ai supervisé les différentes opérations de refactoring pour garantir une qualité de code optimale.
+Le développement a commencé par la création d'une page d'accueil avec un design graphique imaginé pour valider rapidement ce point avant de passer aux aspects plus techniques.
 
+Nous avons ensuite ajouté la fonctionnalité permettant d'enregistrer un panneau de chantier en saisissant des informations textuelles et en prenant une photo depuis l'application ou la galerie. Nous avons également ajouté un bouton pour récupérer les coordonnées GPS du téléphone afin de déduire automatiquement l'adresse du panneau.
+
+Ensuite, nous avons ajouté une page pour enregistrer des entreprises et des contacts, ce qui nous a amenés à réfléchir sur la manière la plus ergonomique d'afficher l'image du panneau tout en saisissant les informations. Nous avons finalement réussi à rendre la page utilisable et pratique pour les utilisateurs.
+
+La dernière étape consistait à permettre l'ajout de plusieurs entreprises à chaque panneau de chantier et à relier des panneaux à des entreprises déjà insérées.
+
+En tant que responsable de la cohérence du code, j'ai veillé à ce que le code reste semblable au reste de la codebase sans en changer le fonctionnement. J'ai également développé la fonctionnalité permettant de récupérer des images de panneau depuis la galerie et je me suis occupé de la liaison entre les panneaux de chantier et les entreprises.
+
+Enfin, nous avons ajouté un bouton de synchronisation sur la page d'accueil pour rassembler les informations de différents commerciaux et avons amélioré l'expérience utilisateur en proposant une traduction dans plusieurs langues, un thème clair/sombre et un filtre d'affichage des données.
+
+Après toutes ces étapes, nous avons réussi à finaliser le projet, en répondant aux besoins du client de manière efficace et en offrant une expérience utilisateur fluide et pratique. Cela a été une expérience enrichissante qui a renforcé notre maîtrise de la planification et du développement logiciel.
 ## Les acteurs principaux
 Mon rôle dans ce projet était celui de Scrum master et développeur d'API, Adam AMBROSINO était en charge du développement mobile, Valentin MAILHAN également, et Clément RINGEVAL était designer et testeur. Stephen Conord était le product owner chez Würth France.
 
