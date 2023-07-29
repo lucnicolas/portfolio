@@ -47,7 +47,12 @@ mes propres solutions pour trouver la meilleure approche.
 
 En tant que développeur de logiciel expérimenté, j'ai une connaissance approfondie des langages de programmation, des
 architectures logicielles et des outils de développement. Je suis capable de comprendre les besoins des clients et de
-développer des solutions logicielles efficaces pour répondre à ces besoins.
+développer des solutions logicielles efficaces pour répondre à ces besoins. 
+
+Je continue à me former sur les dernières technologies et tendances du marché, notamment Java, Angular et le
+développement piloté par les tests. Je suis également intéressé par les nouvelles technologies telles que l'IA, la
+blockchain et l'Internet des objets. Je suis convaincu que ces technologies auront un impact majeur sur notre société
+dans les années à venir et je souhaite être en mesure de les utiliser pour développer des solutions innovantes.
 
 ## Conseil
 
